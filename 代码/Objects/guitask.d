@@ -1,0 +1,13 @@
+.\objects\guitask.o: Ucgui\Core\GUITask.c
+.\objects\guitask.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\guitask.o: Ucgui\Core\GUI_Protected.h
+.\objects\guitask.o: Ucgui\Core\GUI.h
+.\objects\guitask.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\guitask.o: .\Ucgui\Config\GUIConf.h
+.\objects\guitask.o: Ucgui\Core\GUIType.h
+.\objects\guitask.o: Ucgui\Core\LCD.h
+.\objects\guitask.o: Ucgui\Core\GUIVersion.h
+.\objects\guitask.o: Ucgui\Core\LCD_Protected.h
+.\objects\guitask.o: Ucgui\Core\GUIDebug.h
+.\objects\guitask.o: Ucgui\Core\GUI_X.h
+.\objects\guitask.o: .\Ucgui\WM\WM_GUI.h

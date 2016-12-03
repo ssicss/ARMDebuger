@@ -1,0 +1,12 @@
+.\objects\gui_getysizeoffont.o: Ucgui\Core\GUI_GetYSizeOfFont.c
+.\objects\gui_getysizeoffont.o: Ucgui\Core\GUI_Protected.h
+.\objects\gui_getysizeoffont.o: Ucgui\Core\GUI.h
+.\objects\gui_getysizeoffont.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\gui_getysizeoffont.o: .\Ucgui\Config\GUIConf.h
+.\objects\gui_getysizeoffont.o: Ucgui\Core\GUIType.h
+.\objects\gui_getysizeoffont.o: Ucgui\Core\LCD.h
+.\objects\gui_getysizeoffont.o: Ucgui\Core\GUIVersion.h
+.\objects\gui_getysizeoffont.o: Ucgui\Core\LCD_Protected.h
+.\objects\gui_getysizeoffont.o: Ucgui\Core\GUIDebug.h
+.\objects\gui_getysizeoffont.o: Ucgui\Core\GUI_X.h
+.\objects\gui_getysizeoffont.o: .\Ucgui\WM\WM_GUI.h

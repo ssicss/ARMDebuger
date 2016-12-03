@@ -1,0 +1,13 @@
+.\objects\guiaaline.o: Ucgui\AntiAlias\GUIAALine.c
+.\objects\guiaaline.o: .\Ucgui\Core\GUI_Protected.h
+.\objects\guiaaline.o: .\Ucgui\Core\GUI.h
+.\objects\guiaaline.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\guiaaline.o: .\Ucgui\Config\GUIConf.h
+.\objects\guiaaline.o: .\Ucgui\Core\GUIType.h
+.\objects\guiaaline.o: .\Ucgui\Core\LCD.h
+.\objects\guiaaline.o: .\Ucgui\Core\GUIVersion.h
+.\objects\guiaaline.o: .\Ucgui\Core\LCD_Protected.h
+.\objects\guiaaline.o: .\Ucgui\Core\GUIDebug.h
+.\objects\guiaaline.o: .\Ucgui\Core\GUI_X.h
+.\objects\guiaaline.o: .\Ucgui\WM\WM_GUI.h
+.\objects\guiaaline.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h

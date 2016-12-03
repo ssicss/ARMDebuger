@@ -1,0 +1,14 @@
+.\objects\wm__getorg_aa.o: Ucgui\WM\WM__GetOrg_AA.c
+.\objects\wm__getorg_aa.o: Ucgui\WM\WM_Intern.h
+.\objects\wm__getorg_aa.o: Ucgui\WM\WM.h
+.\objects\wm__getorg_aa.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\wm__getorg_aa.o: .\Ucgui\Config\GUIConf.h
+.\objects\wm__getorg_aa.o: .\Ucgui\Core\GUIType.h
+.\objects\wm__getorg_aa.o: .\Ucgui\Core\LCD.h
+.\objects\wm__getorg_aa.o: Ucgui\WM\WM_GUI.h
+.\objects\wm__getorg_aa.o: .\Ucgui\Core\GUI_Protected.h
+.\objects\wm__getorg_aa.o: .\Ucgui\Core\GUI.h
+.\objects\wm__getorg_aa.o: .\Ucgui\Core\GUIVersion.h
+.\objects\wm__getorg_aa.o: .\Ucgui\Core\LCD_Protected.h
+.\objects\wm__getorg_aa.o: .\Ucgui\Core\GUIDebug.h
+.\objects\wm__getorg_aa.o: .\Ucgui\Core\GUI_X.h

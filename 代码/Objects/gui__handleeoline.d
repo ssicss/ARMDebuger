@@ -1,0 +1,13 @@
+.\objects\gui__handleeoline.o: Ucgui\Core\GUI__HandleEOLine.c
+.\objects\gui__handleeoline.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\gui__handleeoline.o: Ucgui\Core\GUI_Protected.h
+.\objects\gui__handleeoline.o: Ucgui\Core\GUI.h
+.\objects\gui__handleeoline.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\gui__handleeoline.o: .\Ucgui\Config\GUIConf.h
+.\objects\gui__handleeoline.o: Ucgui\Core\GUIType.h
+.\objects\gui__handleeoline.o: Ucgui\Core\LCD.h
+.\objects\gui__handleeoline.o: Ucgui\Core\GUIVersion.h
+.\objects\gui__handleeoline.o: Ucgui\Core\LCD_Protected.h
+.\objects\gui__handleeoline.o: Ucgui\Core\GUIDebug.h
+.\objects\gui__handleeoline.o: Ucgui\Core\GUI_X.h
+.\objects\gui__handleeoline.o: .\Ucgui\WM\WM_GUI.h

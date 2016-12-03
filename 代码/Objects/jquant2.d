@@ -1,0 +1,17 @@
+.\objects\jquant2.o: Ucgui\JPEG\jquant2.c
+.\objects\jquant2.o: Ucgui\JPEG\jinclude.h
+.\objects\jquant2.o: Ucgui\JPEG\jconfig.h
+.\objects\jquant2.o: .\Ucgui\Core\GUI.h
+.\objects\jquant2.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\jquant2.o: .\Ucgui\Config\GUIConf.h
+.\objects\jquant2.o: .\Ucgui\Core\GUIType.h
+.\objects\jquant2.o: .\Ucgui\Core\LCD.h
+.\objects\jquant2.o: .\Ucgui\Core\GUIVersion.h
+.\objects\jquant2.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\jquant2.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\objects\jquant2.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\jquant2.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\jquant2.o: Ucgui\JPEG\jpeglib.h
+.\objects\jquant2.o: Ucgui\JPEG\jmorecfg.h
+.\objects\jquant2.o: Ucgui\JPEG\jpegint.h
+.\objects\jquant2.o: Ucgui\JPEG\jerror.h

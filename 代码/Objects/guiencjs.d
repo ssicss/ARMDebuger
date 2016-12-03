@@ -1,0 +1,13 @@
+.\objects\guiencjs.o: Ucgui\Core\GUIEncJS.c
+.\objects\guiencjs.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\guiencjs.o: Ucgui\Core\GUI_Protected.h
+.\objects\guiencjs.o: Ucgui\Core\GUI.h
+.\objects\guiencjs.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\guiencjs.o: .\Ucgui\Config\GUIConf.h
+.\objects\guiencjs.o: Ucgui\Core\GUIType.h
+.\objects\guiencjs.o: Ucgui\Core\LCD.h
+.\objects\guiencjs.o: Ucgui\Core\GUIVersion.h
+.\objects\guiencjs.o: Ucgui\Core\LCD_Protected.h
+.\objects\guiencjs.o: Ucgui\Core\GUIDebug.h
+.\objects\guiencjs.o: Ucgui\Core\GUI_X.h
+.\objects\guiencjs.o: .\Ucgui\WM\WM_GUI.h

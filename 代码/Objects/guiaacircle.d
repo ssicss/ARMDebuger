@@ -1,0 +1,15 @@
+.\objects\guiaacircle.o: Ucgui\AntiAlias\GUIAACircle.c
+.\objects\guiaacircle.o: .\Ucgui\Core\GUI_Protected.h
+.\objects\guiaacircle.o: .\Ucgui\Core\GUI.h
+.\objects\guiaacircle.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\guiaacircle.o: .\Ucgui\Config\GUIConf.h
+.\objects\guiaacircle.o: .\Ucgui\Core\GUIType.h
+.\objects\guiaacircle.o: .\Ucgui\Core\LCD.h
+.\objects\guiaacircle.o: .\Ucgui\Core\GUIVersion.h
+.\objects\guiaacircle.o: .\Ucgui\Core\LCD_Protected.h
+.\objects\guiaacircle.o: .\Ucgui\Core\GUIDebug.h
+.\objects\guiaacircle.o: .\Ucgui\Core\GUI_X.h
+.\objects\guiaacircle.o: .\Ucgui\WM\WM_GUI.h
+.\objects\guiaacircle.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\guiaacircle.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\guiaacircle.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h

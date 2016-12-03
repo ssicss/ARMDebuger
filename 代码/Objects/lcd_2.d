@@ -1,0 +1,12 @@
+.\objects\lcd_2.o: Ucgui\MultiLayer\LCD_2.c
+.\objects\lcd_2.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\lcd_2.o: .\Ucgui\Core\LCD_Private.h
+.\objects\lcd_2.o: .\Ucgui\Core\LCD_ConfDefaults.h
+.\objects\lcd_2.o: .\Ucgui\Config\LCDConf.h
+.\objects\lcd_2.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\lcd_2.o: .\Ucgui\Config\GUIConf.h
+.\objects\lcd_2.o: .\Ucgui\Core\LCD_Protected.h
+.\objects\lcd_2.o: .\Ucgui\Core\LCD.h
+.\objects\lcd_2.o: .\Ucgui\Core\GUI.h
+.\objects\lcd_2.o: .\Ucgui\Core\GUIType.h
+.\objects\lcd_2.o: .\Ucgui\Core\GUIVersion.h

@@ -1,0 +1,15 @@
+.\objects\gui_mouse_driverps2.o: Ucgui\Core\GUI_MOUSE_DriverPS2.c
+.\objects\gui_mouse_driverps2.o: Ucgui\Core\LCD_Private.h
+.\objects\gui_mouse_driverps2.o: Ucgui\Core\LCD_ConfDefaults.h
+.\objects\gui_mouse_driverps2.o: .\Ucgui\Config\LCDConf.h
+.\objects\gui_mouse_driverps2.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\gui_mouse_driverps2.o: .\Ucgui\Config\GUIConf.h
+.\objects\gui_mouse_driverps2.o: Ucgui\Core\LCD_Protected.h
+.\objects\gui_mouse_driverps2.o: Ucgui\Core\LCD.h
+.\objects\gui_mouse_driverps2.o: Ucgui\Core\GUI.h
+.\objects\gui_mouse_driverps2.o: Ucgui\Core\GUIType.h
+.\objects\gui_mouse_driverps2.o: Ucgui\Core\GUIVersion.h
+.\objects\gui_mouse_driverps2.o: Ucgui\Core\GUI_Protected.h
+.\objects\gui_mouse_driverps2.o: Ucgui\Core\GUIDebug.h
+.\objects\gui_mouse_driverps2.o: Ucgui\Core\GUI_X.h
+.\objects\gui_mouse_driverps2.o: .\Ucgui\WM\WM_GUI.h

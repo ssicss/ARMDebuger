@@ -1,0 +1,17 @@
+.\objects\guidev_aa.o: Ucgui\MemDev\GUIDEV_AA.c
+.\objects\guidev_aa.o: .\Ucgui\Core\GUI_Private.h
+.\objects\guidev_aa.o: .\Ucgui\Core\GUI_Protected.h
+.\objects\guidev_aa.o: .\Ucgui\Core\GUI.h
+.\objects\guidev_aa.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\guidev_aa.o: .\Ucgui\Config\GUIConf.h
+.\objects\guidev_aa.o: .\Ucgui\Core\GUIType.h
+.\objects\guidev_aa.o: .\Ucgui\Core\LCD.h
+.\objects\guidev_aa.o: .\Ucgui\Core\GUIVersion.h
+.\objects\guidev_aa.o: .\Ucgui\Core\LCD_Protected.h
+.\objects\guidev_aa.o: .\Ucgui\Core\GUIDebug.h
+.\objects\guidev_aa.o: .\Ucgui\Core\GUI_X.h
+.\objects\guidev_aa.o: .\Ucgui\WM\WM_GUI.h
+.\objects\guidev_aa.o: .\Ucgui\Core\LCD_Private.h
+.\objects\guidev_aa.o: .\Ucgui\Core\LCD_ConfDefaults.h
+.\objects\guidev_aa.o: .\Ucgui\Config\LCDConf.h
+.\objects\guidev_aa.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h

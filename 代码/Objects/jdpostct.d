@@ -1,0 +1,17 @@
+.\objects\jdpostct.o: Ucgui\JPEG\jdpostct.c
+.\objects\jdpostct.o: Ucgui\JPEG\jinclude.h
+.\objects\jdpostct.o: Ucgui\JPEG\jconfig.h
+.\objects\jdpostct.o: .\Ucgui\Core\GUI.h
+.\objects\jdpostct.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\jdpostct.o: .\Ucgui\Config\GUIConf.h
+.\objects\jdpostct.o: .\Ucgui\Core\GUIType.h
+.\objects\jdpostct.o: .\Ucgui\Core\LCD.h
+.\objects\jdpostct.o: .\Ucgui\Core\GUIVersion.h
+.\objects\jdpostct.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\jdpostct.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\objects\jdpostct.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\jdpostct.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\jdpostct.o: Ucgui\JPEG\jpeglib.h
+.\objects\jdpostct.o: Ucgui\JPEG\jmorecfg.h
+.\objects\jdpostct.o: Ucgui\JPEG\jpegint.h
+.\objects\jdpostct.o: Ucgui\JPEG\jerror.h

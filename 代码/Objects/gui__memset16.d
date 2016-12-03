@@ -1,0 +1,13 @@
+.\objects\gui__memset16.o: Ucgui\Core\GUI__memset16.c
+.\objects\gui__memset16.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\gui__memset16.o: Ucgui\Core\GUI_Protected.h
+.\objects\gui__memset16.o: Ucgui\Core\GUI.h
+.\objects\gui__memset16.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\gui__memset16.o: .\Ucgui\Config\GUIConf.h
+.\objects\gui__memset16.o: Ucgui\Core\GUIType.h
+.\objects\gui__memset16.o: Ucgui\Core\LCD.h
+.\objects\gui__memset16.o: Ucgui\Core\GUIVersion.h
+.\objects\gui__memset16.o: Ucgui\Core\LCD_Protected.h
+.\objects\gui__memset16.o: Ucgui\Core\GUIDebug.h
+.\objects\gui__memset16.o: Ucgui\Core\GUI_X.h
+.\objects\gui__memset16.o: .\Ucgui\WM\WM_GUI.h

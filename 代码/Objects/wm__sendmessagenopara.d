@@ -1,0 +1,15 @@
+.\objects\wm__sendmessagenopara.o: Ucgui\WM\WM__SendMessageNoPara.c
+.\objects\wm__sendmessagenopara.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\wm__sendmessagenopara.o: Ucgui\WM\WM_Intern.h
+.\objects\wm__sendmessagenopara.o: Ucgui\WM\WM.h
+.\objects\wm__sendmessagenopara.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\wm__sendmessagenopara.o: .\Ucgui\Config\GUIConf.h
+.\objects\wm__sendmessagenopara.o: .\Ucgui\Core\GUIType.h
+.\objects\wm__sendmessagenopara.o: .\Ucgui\Core\LCD.h
+.\objects\wm__sendmessagenopara.o: Ucgui\WM\WM_GUI.h
+.\objects\wm__sendmessagenopara.o: .\Ucgui\Core\GUI_Protected.h
+.\objects\wm__sendmessagenopara.o: .\Ucgui\Core\GUI.h
+.\objects\wm__sendmessagenopara.o: .\Ucgui\Core\GUIVersion.h
+.\objects\wm__sendmessagenopara.o: .\Ucgui\Core\LCD_Protected.h
+.\objects\wm__sendmessagenopara.o: .\Ucgui\Core\GUIDebug.h
+.\objects\wm__sendmessagenopara.o: .\Ucgui\Core\GUI_X.h

@@ -1,0 +1,9 @@
+.\objects\gui_mergerect.o: Ucgui\Core\GUI_MergeRect.c
+.\objects\gui_mergerect.o: Ucgui\Core\GUI.h
+.\objects\gui_mergerect.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\gui_mergerect.o: .\Ucgui\Config\GUIConf.h
+.\objects\gui_mergerect.o: Ucgui\Core\GUIType.h
+.\objects\gui_mergerect.o: Ucgui\Core\LCD.h
+.\objects\gui_mergerect.o: Ucgui\Core\GUIVersion.h
+.\objects\gui_mergerect.o: Ucgui\Core\GUIDebug.h
+.\objects\gui_mergerect.o: Ucgui\Core\GUI_X.h

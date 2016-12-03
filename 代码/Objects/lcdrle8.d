@@ -1,0 +1,17 @@
+.\objects\lcdrle8.o: Ucgui\Core\LCDRLE8.c
+.\objects\lcdrle8.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\lcdrle8.o: Ucgui\Core\GUI_Private.h
+.\objects\lcdrle8.o: Ucgui\Core\GUI_Protected.h
+.\objects\lcdrle8.o: Ucgui\Core\GUI.h
+.\objects\lcdrle8.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\lcdrle8.o: .\Ucgui\Config\GUIConf.h
+.\objects\lcdrle8.o: Ucgui\Core\GUIType.h
+.\objects\lcdrle8.o: Ucgui\Core\LCD.h
+.\objects\lcdrle8.o: Ucgui\Core\GUIVersion.h
+.\objects\lcdrle8.o: Ucgui\Core\LCD_Protected.h
+.\objects\lcdrle8.o: Ucgui\Core\GUIDebug.h
+.\objects\lcdrle8.o: Ucgui\Core\GUI_X.h
+.\objects\lcdrle8.o: .\Ucgui\WM\WM_GUI.h
+.\objects\lcdrle8.o: Ucgui\Core\LCD_Private.h
+.\objects\lcdrle8.o: Ucgui\Core\LCD_ConfDefaults.h
+.\objects\lcdrle8.o: .\Ucgui\Config\LCDConf.h

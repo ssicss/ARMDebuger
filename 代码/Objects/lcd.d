@@ -1,0 +1,17 @@
+.\objects\lcd.o: Ucgui\Core\LCD.c
+.\objects\lcd.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\lcd.o: Ucgui\Core\GUI_Private.h
+.\objects\lcd.o: Ucgui\Core\GUI_Protected.h
+.\objects\lcd.o: Ucgui\Core\GUI.h
+.\objects\lcd.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\lcd.o: .\Ucgui\Config\GUIConf.h
+.\objects\lcd.o: Ucgui\Core\GUIType.h
+.\objects\lcd.o: Ucgui\Core\LCD.h
+.\objects\lcd.o: Ucgui\Core\GUIVersion.h
+.\objects\lcd.o: Ucgui\Core\LCD_Protected.h
+.\objects\lcd.o: Ucgui\Core\GUIDebug.h
+.\objects\lcd.o: Ucgui\Core\GUI_X.h
+.\objects\lcd.o: .\Ucgui\WM\WM_GUI.h
+.\objects\lcd.o: Ucgui\Core\LCD_Private.h
+.\objects\lcd.o: Ucgui\Core\LCD_ConfDefaults.h
+.\objects\lcd.o: .\Ucgui\Config\LCDConf.h

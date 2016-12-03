@@ -1,0 +1,17 @@
+.\objects\jdapimin.o: Ucgui\JPEG\jdapimin.c
+.\objects\jdapimin.o: Ucgui\JPEG\jinclude.h
+.\objects\jdapimin.o: Ucgui\JPEG\jconfig.h
+.\objects\jdapimin.o: .\Ucgui\Core\GUI.h
+.\objects\jdapimin.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\jdapimin.o: .\Ucgui\Config\GUIConf.h
+.\objects\jdapimin.o: .\Ucgui\Core\GUIType.h
+.\objects\jdapimin.o: .\Ucgui\Core\LCD.h
+.\objects\jdapimin.o: .\Ucgui\Core\GUIVersion.h
+.\objects\jdapimin.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\jdapimin.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\objects\jdapimin.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\jdapimin.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\jdapimin.o: Ucgui\JPEG\jpeglib.h
+.\objects\jdapimin.o: Ucgui\JPEG\jmorecfg.h
+.\objects\jdapimin.o: Ucgui\JPEG\jpegint.h
+.\objects\jdapimin.o: Ucgui\JPEG\jerror.h

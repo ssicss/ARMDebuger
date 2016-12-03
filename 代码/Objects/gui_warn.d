@@ -1,0 +1,14 @@
+.\objects\gui_warn.o: Ucgui\Core\GUI_Warn.c
+.\objects\gui_warn.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\gui_warn.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\gui_warn.o: Ucgui\Core\GUI_Protected.h
+.\objects\gui_warn.o: Ucgui\Core\GUI.h
+.\objects\gui_warn.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\gui_warn.o: .\Ucgui\Config\GUIConf.h
+.\objects\gui_warn.o: Ucgui\Core\GUIType.h
+.\objects\gui_warn.o: Ucgui\Core\LCD.h
+.\objects\gui_warn.o: Ucgui\Core\GUIVersion.h
+.\objects\gui_warn.o: Ucgui\Core\LCD_Protected.h
+.\objects\gui_warn.o: Ucgui\Core\GUIDebug.h
+.\objects\gui_warn.o: Ucgui\Core\GUI_X.h
+.\objects\gui_warn.o: .\Ucgui\WM\WM_GUI.h

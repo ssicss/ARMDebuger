@@ -1,0 +1,17 @@
+.\objects\lcd_rotatecw.o: Ucgui\Core\LCD_RotateCW.c
+.\objects\lcd_rotatecw.o: Ucgui\Core\GUI_Private.h
+.\objects\lcd_rotatecw.o: Ucgui\Core\GUI_Protected.h
+.\objects\lcd_rotatecw.o: Ucgui\Core\GUI.h
+.\objects\lcd_rotatecw.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\lcd_rotatecw.o: .\Ucgui\Config\GUIConf.h
+.\objects\lcd_rotatecw.o: Ucgui\Core\GUIType.h
+.\objects\lcd_rotatecw.o: Ucgui\Core\LCD.h
+.\objects\lcd_rotatecw.o: Ucgui\Core\GUIVersion.h
+.\objects\lcd_rotatecw.o: Ucgui\Core\LCD_Protected.h
+.\objects\lcd_rotatecw.o: Ucgui\Core\GUIDebug.h
+.\objects\lcd_rotatecw.o: Ucgui\Core\GUI_X.h
+.\objects\lcd_rotatecw.o: .\Ucgui\WM\WM_GUI.h
+.\objects\lcd_rotatecw.o: Ucgui\Core\LCD_Private.h
+.\objects\lcd_rotatecw.o: Ucgui\Core\LCD_ConfDefaults.h
+.\objects\lcd_rotatecw.o: .\Ucgui\Config\LCDConf.h
+.\objects\lcd_rotatecw.o: .\Ucgui\WM\WM.h

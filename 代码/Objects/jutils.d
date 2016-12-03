@@ -1,0 +1,17 @@
+.\objects\jutils.o: Ucgui\JPEG\jutils.c
+.\objects\jutils.o: Ucgui\JPEG\jinclude.h
+.\objects\jutils.o: Ucgui\JPEG\jconfig.h
+.\objects\jutils.o: .\Ucgui\Core\GUI.h
+.\objects\jutils.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\jutils.o: .\Ucgui\Config\GUIConf.h
+.\objects\jutils.o: .\Ucgui\Core\GUIType.h
+.\objects\jutils.o: .\Ucgui\Core\LCD.h
+.\objects\jutils.o: .\Ucgui\Core\GUIVersion.h
+.\objects\jutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\jutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\objects\jutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\jutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\jutils.o: Ucgui\JPEG\jpeglib.h
+.\objects\jutils.o: Ucgui\JPEG\jmorecfg.h
+.\objects\jutils.o: Ucgui\JPEG\jpegint.h
+.\objects\jutils.o: Ucgui\JPEG\jerror.h

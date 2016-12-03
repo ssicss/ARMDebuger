@@ -1,0 +1,14 @@
+.\objects\wmmemdev.o: Ucgui\WM\WMMemDev.c
+.\objects\wmmemdev.o: Ucgui\WM\WM_Intern.h
+.\objects\wmmemdev.o: Ucgui\WM\WM.h
+.\objects\wmmemdev.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\wmmemdev.o: .\Ucgui\Config\GUIConf.h
+.\objects\wmmemdev.o: .\Ucgui\Core\GUIType.h
+.\objects\wmmemdev.o: .\Ucgui\Core\LCD.h
+.\objects\wmmemdev.o: Ucgui\WM\WM_GUI.h
+.\objects\wmmemdev.o: .\Ucgui\Core\GUI_Protected.h
+.\objects\wmmemdev.o: .\Ucgui\Core\GUI.h
+.\objects\wmmemdev.o: .\Ucgui\Core\GUIVersion.h
+.\objects\wmmemdev.o: .\Ucgui\Core\LCD_Protected.h
+.\objects\wmmemdev.o: .\Ucgui\Core\GUIDebug.h
+.\objects\wmmemdev.o: .\Ucgui\Core\GUI_X.h

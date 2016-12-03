@@ -1,0 +1,13 @@
+.\objects\gui_cursorcrosss.o: Ucgui\Core\GUI_CursorCrossS.c
+.\objects\gui_cursorcrosss.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\objects\gui_cursorcrosss.o: Ucgui\Core\GUI_Protected.h
+.\objects\gui_cursorcrosss.o: Ucgui\Core\GUI.h
+.\objects\gui_cursorcrosss.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\gui_cursorcrosss.o: .\Ucgui\Config\GUIConf.h
+.\objects\gui_cursorcrosss.o: Ucgui\Core\GUIType.h
+.\objects\gui_cursorcrosss.o: Ucgui\Core\LCD.h
+.\objects\gui_cursorcrosss.o: Ucgui\Core\GUIVersion.h
+.\objects\gui_cursorcrosss.o: Ucgui\Core\LCD_Protected.h
+.\objects\gui_cursorcrosss.o: Ucgui\Core\GUIDebug.h
+.\objects\gui_cursorcrosss.o: Ucgui\Core\GUI_X.h
+.\objects\gui_cursorcrosss.o: .\Ucgui\WM\WM_GUI.h

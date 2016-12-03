@@ -1,0 +1,16 @@
+.\objects\lcddummy.o: Ucgui\LCDDriver\LCDDummy.c
+.\objects\lcddummy.o: .\Ucgui\Core\LCD_Private.h
+.\objects\lcddummy.o: .\Ucgui\Core\LCD_ConfDefaults.h
+.\objects\lcddummy.o: .\Ucgui\Config\LCDConf.h
+.\objects\lcddummy.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\lcddummy.o: .\Ucgui\Config\GUIConf.h
+.\objects\lcddummy.o: .\Ucgui\Core\LCD_Protected.h
+.\objects\lcddummy.o: .\Ucgui\Core\LCD.h
+.\objects\lcddummy.o: .\Ucgui\Core\GUI.h
+.\objects\lcddummy.o: .\Ucgui\Core\GUIType.h
+.\objects\lcddummy.o: .\Ucgui\Core\GUIVersion.h
+.\objects\lcddummy.o: .\Ucgui\Core\GUI_Private.h
+.\objects\lcddummy.o: .\Ucgui\Core\GUI_Protected.h
+.\objects\lcddummy.o: .\Ucgui\Core\GUIDebug.h
+.\objects\lcddummy.o: .\Ucgui\Core\GUI_X.h
+.\objects\lcddummy.o: .\Ucgui\WM\WM_GUI.h

@@ -1,0 +1,14 @@
+.\objects\wm__getfirstsibling.o: Ucgui\WM\WM__GetFirstSibling.c
+.\objects\wm__getfirstsibling.o: Ucgui\WM\WM_Intern.h
+.\objects\wm__getfirstsibling.o: Ucgui\WM\WM.h
+.\objects\wm__getfirstsibling.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\wm__getfirstsibling.o: .\Ucgui\Config\GUIConf.h
+.\objects\wm__getfirstsibling.o: .\Ucgui\Core\GUIType.h
+.\objects\wm__getfirstsibling.o: .\Ucgui\Core\LCD.h
+.\objects\wm__getfirstsibling.o: Ucgui\WM\WM_GUI.h
+.\objects\wm__getfirstsibling.o: .\Ucgui\Core\GUI_Protected.h
+.\objects\wm__getfirstsibling.o: .\Ucgui\Core\GUI.h
+.\objects\wm__getfirstsibling.o: .\Ucgui\Core\GUIVersion.h
+.\objects\wm__getfirstsibling.o: .\Ucgui\Core\LCD_Protected.h
+.\objects\wm__getfirstsibling.o: .\Ucgui\Core\GUIDebug.h
+.\objects\wm__getfirstsibling.o: .\Ucgui\Core\GUI_X.h

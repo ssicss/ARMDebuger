@@ -1,0 +1,13 @@
+.\objects\guival.o: Ucgui\Core\GUIVal.c
+.\objects\guival.o: Ucgui\Core\GUI_Protected.h
+.\objects\guival.o: Ucgui\Core\GUI.h
+.\objects\guival.o: Ucgui\Core\GUI_ConfDefaults.h
+.\objects\guival.o: .\Ucgui\Config\GUIConf.h
+.\objects\guival.o: Ucgui\Core\GUIType.h
+.\objects\guival.o: Ucgui\Core\LCD.h
+.\objects\guival.o: Ucgui\Core\GUIVersion.h
+.\objects\guival.o: Ucgui\Core\LCD_Protected.h
+.\objects\guival.o: Ucgui\Core\GUIDebug.h
+.\objects\guival.o: Ucgui\Core\GUI_X.h
+.\objects\guival.o: .\Ucgui\WM\WM_GUI.h
+.\objects\guival.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h

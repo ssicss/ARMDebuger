@@ -1,0 +1,12 @@
+.\objects\guidev_auto.o: Ucgui\MemDev\GUIDEV_Auto.c
+.\objects\guidev_auto.o: .\Ucgui\Core\GUI_Protected.h
+.\objects\guidev_auto.o: .\Ucgui\Core\GUI.h
+.\objects\guidev_auto.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\guidev_auto.o: .\Ucgui\Config\GUIConf.h
+.\objects\guidev_auto.o: .\Ucgui\Core\GUIType.h
+.\objects\guidev_auto.o: .\Ucgui\Core\LCD.h
+.\objects\guidev_auto.o: .\Ucgui\Core\GUIVersion.h
+.\objects\guidev_auto.o: .\Ucgui\Core\LCD_Protected.h
+.\objects\guidev_auto.o: .\Ucgui\Core\GUIDebug.h
+.\objects\guidev_auto.o: .\Ucgui\Core\GUI_X.h
+.\objects\guidev_auto.o: .\Ucgui\WM\WM_GUI.h

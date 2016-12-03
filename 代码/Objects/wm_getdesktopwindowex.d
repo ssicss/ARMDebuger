@@ -1,0 +1,15 @@
+.\objects\wm_getdesktopwindowex.o: Ucgui\WM\WM_GetDesktopWindowEx.c
+.\objects\wm_getdesktopwindowex.o: Ucgui\WM\WM_Intern_ConfDep.h
+.\objects\wm_getdesktopwindowex.o: Ucgui\WM\WM_Intern.h
+.\objects\wm_getdesktopwindowex.o: Ucgui\WM\WM.h
+.\objects\wm_getdesktopwindowex.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\wm_getdesktopwindowex.o: .\Ucgui\Config\GUIConf.h
+.\objects\wm_getdesktopwindowex.o: .\Ucgui\Core\GUIType.h
+.\objects\wm_getdesktopwindowex.o: .\Ucgui\Core\LCD.h
+.\objects\wm_getdesktopwindowex.o: Ucgui\WM\WM_GUI.h
+.\objects\wm_getdesktopwindowex.o: .\Ucgui\Core\GUI_Protected.h
+.\objects\wm_getdesktopwindowex.o: .\Ucgui\Core\GUI.h
+.\objects\wm_getdesktopwindowex.o: .\Ucgui\Core\GUIVersion.h
+.\objects\wm_getdesktopwindowex.o: .\Ucgui\Core\LCD_Protected.h
+.\objects\wm_getdesktopwindowex.o: .\Ucgui\Core\GUIDebug.h
+.\objects\wm_getdesktopwindowex.o: .\Ucgui\Core\GUI_X.h

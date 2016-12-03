@@ -1,0 +1,16 @@
+.\objects\guidev_copyfromlcd.o: Ucgui\MemDev\GUIDEV_CopyFromLCD.c
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Core\GUI_Private.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Core\GUI_Protected.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Core\GUI.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Core\GUI_ConfDefaults.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Config\GUIConf.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Core\GUIType.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Core\LCD.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Core\GUIVersion.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Core\LCD_Protected.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Core\GUIDebug.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Core\GUI_X.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\WM\WM_GUI.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Core\LCD_Private.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Core\LCD_ConfDefaults.h
+.\objects\guidev_copyfromlcd.o: .\Ucgui\Config\LCDConf.h
