@@ -1,0 +1,906 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space0.
+ERROR: 3D data has been found in this dxf file.
+  Most 3D data is not supported by dxf2a.
+  For the special case of DXF code 230 = -1.0, ARC, CIRCLE 
+  and SOLID entities will be mirrored about the Y axis.
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 4190
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 4196
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 4222
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 4228
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 4254
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 4260
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 4286
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 4292
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 4318
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 4324
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 4350
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 4356
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 4382
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 4388
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 4414
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 4420
+ERROR: 3D data (DXF code 30, value = 27.5000) detected on LINE at line 4446
+ERROR: 3D data (DXF code 31, value = 27.5000) detected on LINE at line 4452
+ERROR: 3D data (DXF code 30, value = 27.5000) detected on LINE at line 4538
+ERROR: 3D data (DXF code 31, value = 27.5000) detected on LINE at line 4544
+ERROR: 3D data (DXF code 30, value = 27.5000) detected on LINE at line 4570
+ERROR: 3D data (DXF code 31, value = 27.5000) detected on LINE at line 4576
+ERROR: 3D data (DXF code 30, value = 27.5000) detected on LINE at line 4722
+ERROR: 3D data (DXF code 31, value = 27.5000) detected on LINE at line 4728
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 4814
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 4820
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 4966
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 4972
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 4998
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 5004
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 5030
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 5036
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on CIRCLE at line 9150
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on CIRCLE at line 9178
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on CIRCLE at line 9206
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on CIRCLE at line 9234
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on CIRCLE at line 9262
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on CIRCLE at line 9290
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on CIRCLE at line 9318
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on CIRCLE at line 9346
+ERROR: 3D data (DXF code 30, value = -21.0000) detected on CIRCLE at line 10366
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 10374
+ERROR: 3D data (DXF code 30, value = -21.0000) detected on CIRCLE at line 10400
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 10408
+ERROR: 3D data (DXF code 30, value = -21.0000) detected on CIRCLE at line 11426
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 11434
+ERROR: 3D data (DXF code 30, value = -21.0000) detected on CIRCLE at line 11460
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 11468
+ERROR: 3D data (DXF code 30, value = -21.0000) detected on CIRCLE at line 12486
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 12494
+ERROR: 3D data (DXF code 30, value = -21.0000) detected on CIRCLE at line 12520
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 12528
+ERROR: 3D data (DXF code 30, value = -21.0000) detected on CIRCLE at line 12554
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 12562
+ERROR: 3D data (DXF code 30, value = -21.0000) detected on CIRCLE at line 12588
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 12596
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13614
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13642
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13670
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13698
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13726
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13754
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13782
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13810
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13838
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13866
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13894
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13922
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13950
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 13978
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 14006
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on CIRCLE at line 14034
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14062
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14070
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14096
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14104
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14130
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14138
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14164
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14172
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14198
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14206
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14232
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14240
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14266
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14274
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14300
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14308
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14334
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14342
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14368
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14376
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14402
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14410
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14436
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14444
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14470
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14478
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14504
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14512
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14538
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14546
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on CIRCLE at line 14572
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 14580
+ERROR: 3D data (DXF code 31, value = 0.5000) detected on LINE at line 14612
+ERROR: 3D data (DXF code 31, value = 0.5000) detected on LINE at line 14644
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on LINE at line 14702
+ERROR: 3D data (DXF code 31, value = 0.5000) detected on LINE at line 14708
+ERROR: 3D data (DXF code 31, value = 0.5000) detected on LINE at line 14740
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on LINE at line 14766
+ERROR: 3D data (DXF code 31, value = 0.5000) detected on LINE at line 14772
+ERROR: 3D data (DXF code 31, value = 0.5000) detected on LINE at line 14836
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on LINE at line 14926
+ERROR: 3D data (DXF code 31, value = 0.5000) detected on LINE at line 14932
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on LINE at line 14958
+ERROR: 3D data (DXF code 31, value = 0.5000) detected on LINE at line 14964
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 14990
+ERROR: 3D data (DXF code 31, value = 5.0000) detected on LINE at line 14996
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on LINE at line 15022
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 15028
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 15262
+ERROR: 3D data (DXF code 31, value = 24.0000) detected on LINE at line 15268
+ERROR: 3D data (DXF code 30, value = 24.0000) detected on LINE at line 15294
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 15300
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 15726
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 15732
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on ARC at line 15758
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 15792
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 15798
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 15824
+ERROR: 3D data (DXF code 31, value = 5.0000) detected on LINE at line 15830
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on LINE at line 16064
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 16070
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on ARC at line 16096
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 16130
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 16136
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 16354
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 16360
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on LINE at line 16594
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 16600
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 16626
+ERROR: 3D data (DXF code 31, value = 5.0000) detected on LINE at line 16632
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on LINE at line 16658
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 16664
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 16898
+ERROR: 3D data (DXF code 31, value = 5.0000) detected on LINE at line 16904
+ERROR: 3D data (DXF code 30, value = 24.0000) detected on LINE at line 17138
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 17144
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 17170
+ERROR: 3D data (DXF code 31, value = 24.0000) detected on LINE at line 17176
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 17410
+ERROR: 3D data (DXF code 31, value = 24.0000) detected on LINE at line 17416
+ERROR: 3D data (DXF code 30, value = 24.0000) detected on LINE at line 17442
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 17448
+ERROR: 3D data (DXF code 30, value = 24.0000) detected on LINE at line 17474
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 17480
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 17506
+ERROR: 3D data (DXF code 31, value = 24.0000) detected on LINE at line 17512
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 17938
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 17944
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on ARC at line 17970
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 18004
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 18010
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 18036
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 18042
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on ARC at line 18068
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 18102
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 18108
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on ARC at line 18518
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 18526
+ERROR: 3D data (DXF code 30, value = 27.5000) detected on LINE at line 18558
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 18564
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 18590
+ERROR: 3D data (DXF code 31, value = 27.5000) detected on LINE at line 18596
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 18622
+ERROR: 3D data (DXF code 31, value = 27.5000) detected on LINE at line 18628
+ERROR: 3D data (DXF code 30, value = 27.5000) detected on LINE at line 18654
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 18660
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on ARC at line 18878
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 18886
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on ARC at line 19110
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 19118
+ERROR: 3D data (DXF code 30, value = 27.5000) detected on LINE at line 19150
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 19156
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 19182
+ERROR: 3D data (DXF code 31, value = 27.5000) detected on LINE at line 19188
+ERROR: 3D data (DXF code 30, value = 27.5000) detected on LINE at line 19214
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 19220
+ERROR: 3D data (DXF code 30, value = -27.5000) detected on ARC at line 19246
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 19254
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 19478
+ERROR: 3D data (DXF code 31, value = 27.5000) detected on LINE at line 19484
+ERROR: 3D data (DXF code 30, value = 24.0000) detected on LINE at line 19510
+ERROR: 3D data (DXF code 31, value = 24.0000) detected on LINE at line 19516
+ERROR: 3D data (DXF code 30, value = 29.0000) detected on LINE at line 19542
+ERROR: 3D data (DXF code 31, value = 29.0000) detected on LINE at line 19548
+ERROR: 3D data (DXF code 30, value = -24.0000) detected on ARC at line 19574
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 19582
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on ARC at line 19614
+ERROR: 3D data (DXF code 220, value = 1.0000) detected on ARC at line 19620
+ERROR: 3D data (DXF code 30, value = -24.0000) detected on ARC at line 19654
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 19662
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on ARC at line 19694
+ERROR: 3D data (DXF code 210, value = 1.0000) detected on ARC at line 19698
+ERROR: 3D data (DXF code 30, value = 29.0000) detected on LINE at line 19734
+ERROR: 3D data (DXF code 31, value = 29.0000) detected on LINE at line 19740
+ERROR: 3D data (DXF code 30, value = 85.0000) detected on ARC at line 19766
+ERROR: 3D data (DXF code 210, value = 1.0000) detected on ARC at line 19770
+ERROR: 3D data (DXF code 30, value = 29.0000) detected on LINE at line 19806
+ERROR: 3D data (DXF code 31, value = 29.0000) detected on LINE at line 19812
+ERROR: 3D data (DXF code 30, value = 65.0000) detected on ARC at line 19838
+ERROR: 3D data (DXF code 220, value = 1.0000) detected on ARC at line 19844
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on ARC at line 19878
+ERROR: 3D data (DXF code 210, value = 1.0000) detected on ARC at line 19882
+ERROR: 3D data (DXF code 30, value = 65.0000) detected on ARC at line 19918
+ERROR: 3D data (DXF code 220, value = 1.0000) detected on ARC at line 19924
+ERROR: 3D data (DXF code 30, value = 29.0000) detected on LINE at line 19958
+ERROR: 3D data (DXF code 31, value = 29.0000) detected on LINE at line 19964
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on ARC at line 19990
+ERROR: 3D data (DXF code 220, value = 1.0000) detected on ARC at line 19996
+ERROR: 3D data (DXF code 30, value = 24.0000) detected on LINE at line 20030
+ERROR: 3D data (DXF code 31, value = 24.0000) detected on LINE at line 20036
+ERROR: 3D data (DXF code 30, value = -24.0000) detected on ARC at line 20062
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 20070
+ERROR: 3D data (DXF code 30, value = 24.0000) detected on LINE at line 20102
+ERROR: 3D data (DXF code 31, value = 24.0000) detected on LINE at line 20108
+ERROR: 3D data (DXF code 30, value = 24.0000) detected on LINE at line 20134
+ERROR: 3D data (DXF code 31, value = 24.0000) detected on LINE at line 20140
+ERROR: 3D data (DXF code 30, value = -24.0000) detected on ARC at line 20166
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 20174
+ERROR: 3D data (DXF code 30, value = 85.0000) detected on ARC at line 20206
+ERROR: 3D data (DXF code 210, value = 1.0000) detected on ARC at line 20210
+ERROR: 3D data (DXF code 30, value = -5.0000) detected on ARC at line 20246
+ERROR: 3D data (DXF code 210, value = -1.0000) detected on ARC at line 20250
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on ARC at line 20318
+ERROR: 3D data (DXF code 220, value = 1.0000) detected on ARC at line 20324
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on ARC at line 20358
+ERROR: 3D data (DXF code 30, value = -85.0000) detected on ARC at line 20392
+ERROR: 3D data (DXF code 210, value = -1.0000) detected on ARC at line 20396
+ERROR: 3D data (DXF code 30, value = -5.0000) detected on ARC at line 20464
+ERROR: 3D data (DXF code 210, value = -1.0000) detected on ARC at line 20468
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on LINE at line 20504
+ERROR: 3D data (DXF code 31, value = 5.0000) detected on LINE at line 20510
+ERROR: 3D data (DXF code 30, value = 65.0000) detected on ARC at line 20568
+ERROR: 3D data (DXF code 220, value = 1.0000) detected on ARC at line 20574
+ERROR: 3D data (DXF code 30, value = -85.0000) detected on ARC at line 20608
+ERROR: 3D data (DXF code 210, value = -1.0000) detected on ARC at line 20612
+ERROR: 3D data (DXF code 30, value = 65.0000) detected on ARC at line 20648
+ERROR: 3D data (DXF code 220, value = 1.0000) detected on ARC at line 20654
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on ARC at line 20720
+ERROR: 3D data (DXF code 220, value = 1.0000) detected on ARC at line 20726
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on LINE at line 20760
+ERROR: 3D data (DXF code 31, value = 5.0000) detected on LINE at line 20766
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on ARC at line 20792
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on LINE at line 20826
+ERROR: 3D data (DXF code 31, value = 5.0000) detected on LINE at line 20832
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on ARC at line 20858
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on LINE at line 20892
+ERROR: 3D data (DXF code 31, value = 5.0000) detected on LINE at line 20898
+ERROR: 3D data (DXF code 30, value = 5.0000) detected on ARC at line 20924
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 20956
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 20962
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 20986
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 20992
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 21016
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 21022
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 21046
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 21052
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 21138
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 21144
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 21170
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 21176
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 21202
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 21208
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 21234
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 21240
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 21266
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 21272
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 21298
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 21304
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 21330
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 21336
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 21362
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 21368
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 21394
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 21400
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 21426
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 21432
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 21458
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 21464
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 21550
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 21556
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 21582
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 21588
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 21614
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 21620
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 21646
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 21652
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 21678
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 21684
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 21710
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 21716
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 21742
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 21748
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 21774
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 21780
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 21806
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 21812
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 21838
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 21844
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 21870
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 21876
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 21900
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 21906
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 21930
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 21936
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 21960
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 21966
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 21990
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 21996
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 22078
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 22084
+ERROR: 3D data (DXF code 30, value = 5.3000) detected on LINE at line 22224
+ERROR: 3D data (DXF code 31, value = 5.3000) detected on LINE at line 22230
+ERROR: 3D data (DXF code 30, value = 3.5000) detected on LINE at line 22254
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22260
+ERROR: 3D data (DXF code 30, value = 3.5000) detected on LINE at line 22284
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22290
+ERROR: 3D data (DXF code 30, value = 3.5000) detected on LINE at line 22314
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22320
+ERROR: 3D data (DXF code 30, value = 3.5000) detected on LINE at line 22344
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22350
+ERROR: 3D data (DXF code 30, value = 5.3000) detected on LINE at line 22374
+ERROR: 3D data (DXF code 31, value = 5.3000) detected on LINE at line 22380
+ERROR: 3D data (DXF code 30, value = 5.3000) detected on LINE at line 22404
+ERROR: 3D data (DXF code 31, value = 5.3000) detected on LINE at line 22410
+ERROR: 3D data (DXF code 30, value = 5.3000) detected on LINE at line 22434
+ERROR: 3D data (DXF code 31, value = 5.3000) detected on LINE at line 22440
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on LINE at line 22466
+ERROR: 3D data (DXF code 31, value = 0.5000) detected on LINE at line 22472
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on LINE at line 22498
+ERROR: 3D data (DXF code 31, value = 0.5000) detected on LINE at line 22504
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 22530
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22536
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on LINE at line 22562
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22568
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on LINE at line 22594
+ERROR: 3D data (DXF code 31, value = 0.5000) detected on LINE at line 22600
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 22626
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22632
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 22658
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22664
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on LINE at line 22690
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22696
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 22722
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22728
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on LINE at line 22754
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22760
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on LINE at line 22786
+ERROR: 3D data (DXF code 31, value = 0.5000) detected on LINE at line 22792
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on LINE at line 22818
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22824
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 22848
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22854
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 22878
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22884
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 22908
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22914
+ERROR: 3D data (DXF code 30, value = 1.5000) detected on LINE at line 22938
+ERROR: 3D data (DXF code 31, value = 1.5000) detected on LINE at line 22944
+ERROR: 3D data (DXF code 30, value = 5.3000) detected on LINE at line 22968
+ERROR: 3D data (DXF code 31, value = 3.5000) detected on LINE at line 22974
+ERROR: 3D data (DXF code 30, value = 3.5000) detected on LINE at line 22998
+ERROR: 3D data (DXF code 31, value = 3.5000) detected on LINE at line 23004
+ERROR: 3D data (DXF code 30, value = 3.5000) detected on LINE at line 23028
+ERROR: 3D data (DXF code 31, value = 3.5000) detected on LINE at line 23034
+ERROR: 3D data (DXF code 30, value = 3.5000) detected on LINE at line 23058
+ERROR: 3D data (DXF code 31, value = 3.5000) detected on LINE at line 23064
+ERROR: 3D data (DXF code 30, value = 3.5000) detected on LINE at line 23198
+ERROR: 3D data (DXF code 31, value = 3.5000) detected on LINE at line 23204
+ERROR: 3D data (DXF code 30, value = 5.3000) detected on LINE at line 23338
+ERROR: 3D data (DXF code 31, value = 3.5000) detected on LINE at line 23344
+ERROR: 3D data (DXF code 30, value = 5.3000) detected on LINE at line 23368
+ERROR: 3D data (DXF code 31, value = 3.5000) detected on LINE at line 23374
+ERROR: 3D data (DXF code 30, value = 5.3000) detected on LINE at line 23398
+ERROR: 3D data (DXF code 31, value = 3.5000) detected on LINE at line 23404
+ERROR: 3D data (DXF code 30, value = 3.5000) detected on LINE at line 23428
+ERROR: 3D data (DXF code 31, value = 3.5000) detected on LINE at line 23434
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 23568
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 23574
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 23598
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 23604
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 23628
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 23634
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 23658
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 23664
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 23688
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 23694
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 23718
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 23724
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 23748
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 23754
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 23778
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 23784
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 23808
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 23814
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 23838
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 23844
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 23868
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 23874
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 23898
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 23904
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 23928
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 23934
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 23958
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 23964
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 24104
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 24110
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 24134
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 24140
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 24164
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 24170
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 24194
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 24200
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 24226
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 24232
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 24318
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 24324
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 24350
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 24356
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 24382
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 24388
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 24414
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 24420
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 24446
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 24452
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 24478
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 24484
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 24510
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 24516
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 24542
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 24548
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 24574
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 24580
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on LINE at line 24606
+ERROR: 3D data (DXF code 31, value = 18.6000) detected on LINE at line 24612
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 24638
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 24644
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 24670
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 24676
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 24762
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 24768
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 24794
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 24800
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 24826
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 24832
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 24858
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 24864
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 24890
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 24896
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 24922
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 24928
+ERROR: 3D data (DXF code 30, value = 14.5000) detected on LINE at line 24954
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 24960
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 24986
+ERROR: 3D data (DXF code 31, value = 14.5000) detected on LINE at line 24992
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 25018
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 25024
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25050
+ERROR: 3D data (DXF code 31, value = 13.1000) detected on LINE at line 25056
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25082
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25088
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25114
+ERROR: 3D data (DXF code 31, value = 13.1000) detected on LINE at line 25120
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25146
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25152
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25178
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25184
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25210
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25216
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25242
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 25248
+ERROR: 3D data (DXF code 30, value = 13.1000) detected on LINE at line 25274
+ERROR: 3D data (DXF code 31, value = 13.1000) detected on LINE at line 25280
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25306
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25312
+ERROR: 3D data (DXF code 30, value = 13.1000) detected on LINE at line 25338
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25344
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25370
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25376
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25402
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 25408
+ERROR: 3D data (DXF code 30, value = 13.1000) detected on LINE at line 25434
+ERROR: 3D data (DXF code 31, value = 13.1000) detected on LINE at line 25440
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 25466
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25472
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 25498
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25504
+ERROR: 3D data (DXF code 30, value = 13.1000) detected on LINE at line 25530
+ERROR: 3D data (DXF code 31, value = 13.1000) detected on LINE at line 25536
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 25562
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 25568
+ERROR: 3D data (DXF code 30, value = 13.1000) detected on LINE at line 25594
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25600
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 25626
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 25632
+ERROR: 3D data (DXF code 30, value = 13.1000) detected on LINE at line 25658
+ERROR: 3D data (DXF code 31, value = 13.1000) detected on LINE at line 25664
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 25690
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 25696
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25722
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25728
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25754
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25760
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 25786
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 25792
+ERROR: 3D data (DXF code 30, value = 13.1000) detected on LINE at line 25816
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25822
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25846
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25852
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25876
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25882
+ERROR: 3D data (DXF code 30, value = 13.1000) detected on LINE at line 25906
+ERROR: 3D data (DXF code 31, value = 13.1000) detected on LINE at line 25912
+ERROR: 3D data (DXF code 30, value = 13.1000) detected on LINE at line 25936
+ERROR: 3D data (DXF code 31, value = 13.1000) detected on LINE at line 25942
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 25966
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 25972
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 25996
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 26002
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 26026
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 26032
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 26056
+ERROR: 3D data (DXF code 31, value = 13.1000) detected on LINE at line 26062
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 26086
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 26092
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 26116
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 26122
+ERROR: 3D data (DXF code 30, value = 13.1000) detected on LINE at line 26146
+ERROR: 3D data (DXF code 31, value = 13.1000) detected on LINE at line 26152
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 26176
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 26182
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 26206
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 26212
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 26236
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 26242
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 26266
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 26272
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 26296
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 26302
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 26326
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 26332
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 26356
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 26362
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 26386
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 26392
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 26416
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 26422
+ERROR: 3D data (DXF code 30, value = 11.6000) detected on LINE at line 26446
+ERROR: 3D data (DXF code 31, value = 13.1000) detected on LINE at line 26452
+ERROR: 3D data (DXF code 30, value = 13.1000) detected on LINE at line 26476
+ERROR: 3D data (DXF code 31, value = 13.1000) detected on LINE at line 26482
+ERROR: 3D data (DXF code 30, value = 13.1000) detected on LINE at line 26506
+ERROR: 3D data (DXF code 31, value = 11.6000) detected on LINE at line 26512
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 26536
+ERROR: 3D data (DXF code 31, value = 4.5000) detected on LINE at line 26542
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 26566
+ERROR: 3D data (DXF code 31, value = 4.5000) detected on LINE at line 26572
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 26596
+ERROR: 3D data (DXF code 31, value = 4.5000) detected on LINE at line 26602
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 26626
+ERROR: 3D data (DXF code 31, value = 4.5000) detected on LINE at line 26632
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 26656
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 26662
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 26686
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 26692
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 26716
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 26722
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 26746
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 26752
+ERROR: 3D data (DXF code 30, value = 4.5000) detected on LINE at line 26834
+ERROR: 3D data (DXF code 31, value = 4.5000) detected on LINE at line 26840
+ERROR: 3D data (DXF code 30, value = -3.0000) detected on CIRCLE at line 26980
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 26988
+ERROR: 3D data (DXF code 30, value = -1.5000) detected on CIRCLE at line 27572
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 27580
+ERROR: 3D data (DXF code 30, value = 0.5000) detected on CIRCLE at line 27606
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 27632
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 27638
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 27662
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 27668
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 27692
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 27698
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 27722
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 27728
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 27752
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 27758
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 27782
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 27788
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 27812
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 27818
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 27842
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 27848
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 27872
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 27878
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 27902
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 27908
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 27932
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 27938
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 27962
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 27968
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 27992
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 27998
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 28022
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 28028
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 28052
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 28058
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 28082
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 28088
+ERROR: 3D data (DXF code 30, value = -8.0000) detected on ARC at line 28112
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 28120
+ERROR: 3D data (DXF code 30, value = -8.0000) detected on ARC at line 28150
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 28158
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 28188
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 28194
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 28218
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 28224
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 28248
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 28254
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on ARC at line 28278
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 28310
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 28316
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on ARC at line 28340
+ERROR: 3D data (DXF code 30, value = -9.6000) detected on ARC at line 28372
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 28380
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 28410
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 28416
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on ARC at line 28440
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 28472
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 28478
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on ARC at line 28502
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on ARC at line 28534
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 28566
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 28572
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 28596
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 28602
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 28626
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 28632
+ERROR: 3D data (DXF code 30, value = -8.0000) detected on ARC at line 28656
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 28664
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 28694
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 28700
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on ARC at line 28724
+ERROR: 3D data (DXF code 30, value = -9.6000) detected on ARC at line 28756
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 28764
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 28794
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 28800
+ERROR: 3D data (DXF code 30, value = -8.0000) detected on ARC at line 28824
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 28832
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 28862
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 28868
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 28892
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 28898
+ERROR: 3D data (DXF code 30, value = -8.0000) detected on ARC at line 28922
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 28930
+ERROR: 3D data (DXF code 30, value = -9.6000) detected on ARC at line 28960
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 28968
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 28998
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 29004
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on ARC at line 29028
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 29060
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 29066
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 29090
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 29096
+ERROR: 3D data (DXF code 30, value = -8.0000) detected on ARC at line 29120
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 29128
+ERROR: 3D data (DXF code 30, value = -8.0000) detected on ARC at line 29158
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 29166
+ERROR: 3D data (DXF code 30, value = -8.0000) detected on ARC at line 29196
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 29204
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 29234
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 29240
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 29264
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 29270
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 29294
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 29300
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 29324
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 29330
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 29354
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 29360
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 29384
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 29390
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on ARC at line 29414
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on LINE at line 29446
+ERROR: 3D data (DXF code 31, value = 8.0000) detected on LINE at line 29452
+ERROR: 3D data (DXF code 30, value = -9.6000) detected on ARC at line 29476
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on ARC at line 29484
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on ARC at line 29514
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on ARC at line 29546
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on ARC at line 29578
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on ARC at line 29610
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on LINE at line 29642
+ERROR: 3D data (DXF code 31, value = 9.6000) detected on LINE at line 29648
+ERROR: 3D data (DXF code 30, value = -8.0000) detected on CIRCLE at line 29672
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 29680
+ERROR: 3D data (DXF code 30, value = -9.6000) detected on CIRCLE at line 29704
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 29712
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on CIRCLE at line 29736
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on CIRCLE at line 29762
+ERROR: 3D data (DXF code 30, value = -9.6000) detected on CIRCLE at line 29788
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 29796
+ERROR: 3D data (DXF code 30, value = -8.0000) detected on CIRCLE at line 29820
+ERROR: 3D data (DXF code 230, value = -1.0000) detected on CIRCLE at line 29828
+ERROR: 3D data (DXF code 30, value = 8.0000) detected on CIRCLE at line 29852
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on CIRCLE at line 29878
+ERROR: 3D data (DXF code 30, value = 9.6000) detected on CIRCLE at line 29904
+ERROR: 3D data (DXF code 30, value = 18.6000) detected on CIRCLE at line 29930
+done.
+NOTE: Ignoring unsupported element POINT on line 4144.
+NOTE: Ignoring unsupported element SPLINE on line 4454.
+NOTE: Ignoring unsupported element SPLINE on line 4578.
+NOTE: Ignoring unsupported element SPLINE on line 4638.
+NOTE: Ignoring unsupported element SPLINE on line 4730.
+NOTE: Ignoring unsupported element SPLINE on line 4822.
+NOTE: Ignoring unsupported element SPLINE on line 4882.
+NOTE: Ignoring unsupported element SPLINE on line 5038.
+NOTE: Ignoring unsupported element SPLINE on line 5098.
+NOTE: Ignoring unsupported element SPLINE on line 5158.
+NOTE: Ignoring unsupported element SPLINE on line 5606.
+NOTE: Ignoring unsupported element SPLINE on line 6150.
+NOTE: Ignoring unsupported element SPLINE on line 6598.
+NOTE: Ignoring unsupported element SPLINE on line 7142.
+NOTE: Ignoring unsupported element SPLINE on line 7590.
+NOTE: Ignoring unsupported element SPLINE on line 8134.
+NOTE: Ignoring unsupported element SPLINE on line 8582.
+NOTE: Ignoring unsupported element SPLINE on line 9350.
+NOTE: Ignoring unsupported element SPLINE on line 9798.
+NOTE: Ignoring unsupported element SPLINE on line 10410.
+NOTE: Ignoring unsupported element SPLINE on line 10858.
+NOTE: Ignoring unsupported element SPLINE on line 11470.
+NOTE: Ignoring unsupported element SPLINE on line 11918.
+NOTE: Ignoring unsupported element SPLINE on line 12598.
+NOTE: Ignoring unsupported element SPLINE on line 13046.
+WARNING: Ignoring zero length segment at (82.0000, 8.0000)
+WARNING: Ignoring zero length segment at (8.0000, 62.0000)
+WARNING: Ignoring zero length segment at (8.0000, 8.0000)
+WARNING: Ignoring zero length segment at (82.0000, 62.0000)
+WARNING: Ignoring zero length segment at (90.0000, 5.0000)
+WARNING: Ignoring zero length segment at (85.0000, 0.0000)
+NOTE: Ignoring unsupported element SPLINE on line 15030.
+WARNING: Ignoring zero length segment at (85.0000, 0.0000)
+WARNING: Ignoring zero length segment at (90.0000, 5.0000)
+NOTE: Ignoring unsupported element SPLINE on line 15302.
+NOTE: Ignoring unsupported element SPLINE on line 15510.
+WARNING: Ignoring zero length segment at (85.0000, 1.5000)
+WARNING: Ignoring zero length segment at (88.5000, 5.0000)
+WARNING: Ignoring zero length segment at (5.0000, 0.0000)
+NOTE: Ignoring unsupported element SPLINE on line 15832.
+WARNING: Ignoring zero length segment at (0.0000, 5.0000)
+WARNING: Ignoring zero length segment at (5.0000, 1.5000)
+NOTE: Ignoring unsupported element SPLINE on line 16138.
+WARNING: Ignoring zero length segment at (1.5000, 5.0000)
+NOTE: Ignoring unsupported element SPLINE on line 16362.
+WARNING: Ignoring zero length segment at (5.0000, 70.0000)
+WARNING: Ignoring zero length segment at (0.0000, 65.0000)
+WARNING: Ignoring zero length segment at (90.0000, 65.0000)
+NOTE: Ignoring unsupported element SPLINE on line 16666.
+WARNING: Ignoring zero length segment at (85.0000, 70.0000)
+NOTE: Ignoring unsupported element SPLINE on line 16906.
+WARNING: Ignoring zero length segment at (5.0000, 0.0000)
+WARNING: Ignoring zero length segment at (0.0000, 5.0000)
+NOTE: Ignoring unsupported element SPLINE on line 17178.
+WARNING: Ignoring zero length segment at (90.0000, 65.0000)
+WARNING: Ignoring zero length segment at (85.0000, 70.0000)
+WARNING: Ignoring zero length segment at (0.0000, 65.0000)
+WARNING: Ignoring zero length segment at (5.0000, 70.0000)
+NOTE: Ignoring unsupported element SPLINE on line 17514.
+NOTE: Ignoring unsupported element SPLINE on line 17722.
+WARNING: Ignoring zero length segment at (88.5000, 65.0000)
+WARNING: Ignoring zero length segment at (85.0000, 68.5000)
+WARNING: Ignoring zero length segment at (5.0000, 68.5000)
+WARNING: Ignoring zero length segment at (1.5000, 65.0000)
+NOTE: Ignoring unsupported element SPLINE on line 18110.
+NOTE: Ignoring unsupported element SPLINE on line 18302.
+WARNING: Ignoring zero length segment at (5.0000, 68.5000)
+WARNING: Ignoring zero length segment at (1.5000, 65.0000)
+WARNING: Ignoring zero length segment at (85.0000, 68.5000)
+WARNING: Ignoring zero length segment at (88.5000, 65.0000)
+NOTE: Ignoring unsupported element SPLINE on line 18662.
+NOTE: Ignoring unsupported element SPLINE on line 18894.
+WARNING: Ignoring zero length segment at (85.0000, 1.5000)
+WARNING: Ignoring zero length segment at (88.5000, 5.0000)
+WARNING: Ignoring zero length segment at (1.5000, 5.0000)
+NOTE: Ignoring unsupported element SPLINE on line 19262.
+WARNING: Ignoring zero length segment at (5.0000, 1.5000)
+NOTE: Ignoring unsupported element SPLINE on line 21054.
+WARNING: Ignoring zero length segment at (88.5000, 51.5000)
+WARNING: Ignoring zero length segment at (90.0000, 51.5000)
+WARNING: Ignoring zero length segment at (88.5000, 18.5000)
+WARNING: Ignoring zero length segment at (90.0000, 18.5000)
+NOTE: Ignoring unsupported element SPLINE on line 21466.
+WARNING: Ignoring zero length segment at (90.0000, 51.5000)
+WARNING: Ignoring zero length segment at (88.5000, 18.5000)
+WARNING: Ignoring zero length segment at (88.5000, 51.5000)
+WARNING: Ignoring zero length segment at (90.0000, 18.5000)
+WARNING: Ignoring zero length segment at (90.0000, 51.5000)
+WARNING: Ignoring zero length segment at (90.0000, 18.5000)
+NOTE: Ignoring unsupported element SPLINE on line 21998.
+NOTE: Ignoring unsupported element SPLINE on line 22086.
+NOTE: Ignoring unsupported element SPLINE on line 22144.
+WARNING: Ignoring zero length segment at (80.0300, 15.6400)
+WARNING: Ignoring zero length segment at (25.9700, 15.6400)
+WARNING: Ignoring zero length segment at (25.9700, 54.3600)
+WARNING: Ignoring zero length segment at (80.0300, 54.3600)
+WARNING: Ignoring zero length segment at (80.0300, 54.3600)
+WARNING: Ignoring zero length segment at (80.0300, 15.6400)
+WARNING: Ignoring zero length segment at (25.9700, 54.3600)
+WARNING: Ignoring zero length segment at (25.9700, 15.6400)
+WARNING: Ignoring zero length segment at (82.0300, 13.6400)
+NOTE: Ignoring unsupported element SPLINE on line 23066.
+NOTE: Ignoring unsupported element SPLINE on line 23206.
+WARNING: Ignoring zero length segment at (22.7700, 56.3600)
+WARNING: Ignoring zero length segment at (22.7700, 13.6400)
+WARNING: Ignoring zero length segment at (82.0300, 56.3600)
+NOTE: Ignoring unsupported element SPLINE on line 23436.
+WARNING: Ignoring zero length segment at (0.0000, 13.5000)
+NOTE: Ignoring unsupported element SPLINE on line 23966.
+NOTE: Ignoring unsupported element SPLINE on line 24024.
+WARNING: Ignoring zero length segment at (0.0000, 30.0000)
+WARNING: Ignoring zero length segment at (9.0000, 30.0000)
+NOTE: Ignoring unsupported element SPLINE on line 24234.
+WARNING: Ignoring zero length segment at (1.5000, 13.5000)
+WARNING: Ignoring zero length segment at (0.0000, 13.5000)
+WARNING: Ignoring zero length segment at (1.5000, 30.0000)
+WARNING: Ignoring zero length segment at (0.0000, 30.0000)
+NOTE: Ignoring unsupported element SPLINE on line 24678.
+WARNING: Ignoring zero length segment at (1.5000, 13.5000)
+WARNING: Ignoring zero length segment at (1.5000, 30.0000)
+WARNING: Ignoring zero length segment at (0.0000, 30.0000)
+WARNING: Ignoring zero length segment at (0.0000, 13.5000)
+WARNING: Ignoring zero length segment at (0.0000, 45.0000)
+WARNING: Ignoring zero length segment at (1.5000, 45.0000)
+WARNING: Ignoring zero length segment at (0.0000, 52.0000)
+WARNING: Ignoring zero length segment at (0.0000, 52.5000)
+WARNING: Ignoring zero length segment at (1.5000, 52.0000)
+WARNING: Ignoring zero length segment at (0.0000, 45.5000)
+WARNING: Ignoring zero length segment at (1.5000, 45.5000)
+WARNING: Ignoring zero length segment at (1.5000, 52.5000)
+WARNING: Ignoring zero length segment at (1.5000, 45.0000)
+WARNING: Ignoring zero length segment at (1.5000, 52.5000)
+WARNING: Ignoring zero length segment at (1.5000, 45.5000)
+WARNING: Ignoring zero length segment at (1.5000, 52.0000)
+WARNING: Ignoring zero length segment at (10.5000, 45.5000)
+WARNING: Ignoring zero length segment at (10.5000, 52.0000)
+WARNING: Ignoring zero length segment at (10.5000, 52.5000)
+WARNING: Ignoring zero length segment at (10.5000, 45.0000)
+WARNING: Ignoring zero length segment at (21.4850, 41.0000)
+WARNING: Ignoring zero length segment at (9.4850, 41.0000)
+WARNING: Ignoring zero length segment at (9.4850, 29.0000)
+WARNING: Ignoring zero length segment at (21.4850, 29.0000)
+NOTE: Ignoring unsupported element SPLINE on line 26754.
+NOTE: Ignoring unsupported element SPLINE on line 26842.
+NOTE: Ignoring unsupported element SPLINE on line 26900.
+NOTE: Ignoring unsupported element SPLINE on line 26990.
+WARNING: Ignoring zero length segment at (80.5000, 4.5000)
+WARNING: Ignoring zero length segment at (87.5000, 11.5000)
+WARNING: Ignoring zero length segment at (82.5000, 9.5000)
+WARNING: Ignoring zero length segment at (78.5000, 2.5000)
+WARNING: Ignoring zero length segment at (80.5000, 7.5000)
+WARNING: Ignoring zero length segment at (85.5000, 9.5000)
+WARNING: Ignoring zero length segment at (9.5000, 4.5000)
+WARNING: Ignoring zero length segment at (2.5000, 11.5000)
+WARNING: Ignoring zero length segment at (7.5000, 9.5000)
+WARNING: Ignoring zero length segment at (11.5000, 2.5000)
+WARNING: Ignoring zero length segment at (9.5000, 7.5000)
+WARNING: Ignoring zero length segment at (4.5000, 9.5000)
+WARNING: Ignoring zero length segment at (9.5000, 65.5000)
+WARNING: Ignoring zero length segment at (82.5000, 60.5000)
+WARNING: Ignoring zero length segment at (87.5000, 58.5000)
+WARNING: Ignoring zero length segment at (9.5000, 62.5000)
+WARNING: Ignoring zero length segment at (85.5000, 60.5000)
+WARNING: Ignoring zero length segment at (80.5000, 65.5000)
+WARNING: Ignoring zero length segment at (2.5000, 58.5000)
+WARNING: Ignoring zero length segment at (80.5000, 62.5000)
+WARNING: Ignoring zero length segment at (78.5000, 67.5000)
+WARNING: Ignoring zero length segment at (11.5000, 67.5000)
+WARNING: Ignoring zero length segment at (7.5000, 60.5000)
+WARNING: Ignoring zero length segment at (4.5000, 60.5000)
+Layer conversion file: C:/Users/444/Desktop/waike_l.cnv
+DXF file: C:/Users/444/Desktop/waike.dxf
+BRD file: #Taaaaaa03180.tmp
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILLIMETERS
+Design precision: 4
+dxf2a complete.
