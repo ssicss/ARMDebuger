@@ -1,0 +1,77 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : dl-wkv0101.brd                                )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Sun Dec 04 19:33:47 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'D:/ARMDebuger/原理图/allegro';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'D:/ARMDebuger/PCB/dl-wkv0101.brd';
+NEW_BOARD_NAME 'D:/ARMDebuger/PCB/dl-wkv0101.brd';
+
+CmdLine: netrev -$ -i D:/ARMDebuger/原理图/allegro -y 1 D:/ARMDebuger/PCB/#Taaaaaa04628.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read D:/ARMDebuger/原理图/allegro/pstchip.dat 
+   Finished reading D:/ARMDebuger/原理图/allegro/pstchip.dat (00:00:00.04)
+Starting to read D:/ARMDebuger/原理图/allegro/pstxprt.dat 
+   Finished reading D:/ARMDebuger/原理图/allegro/pstxprt.dat (00:00:00.00)
+Starting to read D:/ARMDebuger/原理图/allegro/pstxnet.dat 
+   Finished reading D:/ARMDebuger/原理图/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.5/share/local/pcb/modules 
+
+PSMPATH =  D:\AllegroLib\PSMLib\ 
+
+PADPATH =  D:\ALLEGROLIB\PADLIB\ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Dec 4 19:33:47 2016
+   DESIGN NAME : 'DL-WKV0101'
+   PACKAGING ON Apr 21 2011 10:02:30
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:32
+elapsed time  0:00:01
+

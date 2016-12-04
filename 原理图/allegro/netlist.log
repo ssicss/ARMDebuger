@@ -1,0 +1,19 @@
+{ Using PSTWRITER 16.5.0 p001Dec-04-2016 at 19:33:18 }
+
+#1 WARNING(ORCAP-36006): Part Name "DIODE TVS BI-DIR_SOD523_ESD5Z6_0T1G" is renamed to "DIODE TVS BI-DIR_SOD523_ESD5Z6_".
+#2 WARNING(ORCAP-36006): Part Name "HEADER 5X2_HD254P-5X2_HEADER 5X2" is renamed to "HEADER 5X2_HD254P-5X2_HEADER 5X".
+#3 WARNING(ORCAP-36006): Part Name "LCD_TFT_2R4_TFT_2R4_0R5X50_LCD_TFT_2R4" is renamed to "LCD_TFT_2R4_TFT_2R4_0R5X50_LCD_".
+#4 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON-DPST_SW12X12X8R5_SW CTL" is renamed to "SW PUSHBUTTON-DPST_SW12X12X8R5_".
+#5 WARNING(ORCAP-36006): Part Name "STM32F103R8T6/LQFP64_LQFP50P1200X1200X160-64_STM32F103R8T6/LQFP64" is renamed to "STM32F103R8T6/LQFP64_LQFP50P120".
+#6 WARNING(ORCAP-36006): Part Name "USB-CONNECTER_MINIUSB_USB-CONNECTER" is renamed to "USB-CONNECTER_MINIUSB_USB-CONNE".
+#7 WARNING(ORCAP-36006): Part Name "RT9013-SOT23-5_SOT23-5_RT9013-SOT23-5" is renamed to "RT9013-SOT23-5_SOT23-5_RT9013-S".
+Scanning netlist files ...
+
+Loading... d:\armdebuger\原理图\allegro/pstchip.dat
+
+Loading... d:\armdebuger\原理图\allegro/pstchip.dat
+
+Loading... d:\armdebuger\原理图\allegro/pstxprt.dat
+
+Loading... d:\armdebuger\原理图\allegro/pstxnet.dat
+packaging the design view...

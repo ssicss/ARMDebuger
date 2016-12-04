@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : dl-wkv0101.brd                                )
+(    Software Version : 16.5P003                                      )
+(    Date/Time        : Sun Dec 04 19:34:52 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  LCD4 / LCD_TFT_2R4_TFT_2R4_0R5X50_LCD_ / TFT_2R4_0R5X50 at (15.6032 120.8096)
+         Placed symbol:  Q6 / 1R1001_SOT23_S8050 / SOT23 at (31.7064 115.9446)
+         Placed symbol:  C24 / CAP NP_CAPC0805_10UF/CAPC0805 / CAPC0805 at (35.5796 115.9446)
+         Placed symbol:  C22 / CAP NP_CAPC0603_100NF/CAPC0603 / CAPC0603 at (38.0528 115.8260)
+         Placed symbol:  C23 / CAP NP_CAPC0603_100NF/CAPC0603 / CAPC0603 at (40.2560 115.8260)
+         Placed symbol:  R30 / R2_RESC0603_1K/RESC0603 / RESC0603 at (42.4592 115.8260)
+         Placed symbol:  R31 / R2_RESC0603_10K/RESC0603 / RESC0603 at (44.6624 115.8260)
+
+
+Placed 7 of 7 applicable (7 total) symbols.
+
+-----------------------------------------------------------------------
+

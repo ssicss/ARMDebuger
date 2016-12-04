@@ -1,0 +1,760 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.5.0 p001Dec-04-2016 at 17:28:01 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='DL-WKV0101';
+ POST_TIME='Apr 21 2011 10:02:30';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAPC0603_30PF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS8350@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins8350@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins8350@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_CAPC0603_100NF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS19646@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins19646@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins19646@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_CAPC0603_100NF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS19672@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins19672@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins19672@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_CAPC0603_100NF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS19698@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins19698@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins19698@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_CAPC0603_100NF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS19724@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins19724@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins19724@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_CAPC0603_100NF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS19750@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins19750@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins19750@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_CAPC0603_100NF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS28263@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins28263@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins28263@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_CAPC0603_1UF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS11974@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins11974@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins11974@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_CAPC0603_1UF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS63394@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins63394@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins63394@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_CAPC0603_1UF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS63454@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins63454@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins63454@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_CAPC0603_100NF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS49203@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins49203@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins49203@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CAPC0603_100NF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS30224@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins30224@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins30224@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_CAPC0603_30PF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS8324@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins8324@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins8324@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_CAPC0603_100NF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS8955@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins8955@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins8955@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_CAPC0603_100NF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS4235@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins4235@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins4235@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_CAPC0603_1UF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS4261@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins4261@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins4261@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_CAPC0603_100NF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS6296@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins6296@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins6296@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_CAPC0603_1UF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS6312@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins6312@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins6312@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_CAPC0603_1UF/CAPC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS19776@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins19776@discrete.\cap np.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins19776@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_DO-214AC_SS34':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS29423@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins29423@discrete.\diode.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins29423@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LEDM0603_LED':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS547@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins547@discrete.\led.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins547@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_DO-214AC_SS34':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS48155@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins48155@discrete.\diode.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins48155@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LEDM0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS12303@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins12303@discrete.\led.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins12303@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_LEDM0603_RED':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS12419@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins12419@discrete.\led.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins12419@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'DIODE_DO-214AC_SS34':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS13278@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins13278@discrete.\diode.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins13278@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'DIODE_DO-214AC_SS34':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS13208@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins13208@discrete.\diode.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins13208@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'DIODE TVS BI-DIR_SOD523_ESD5Z6_':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS13591@DISCRETE.DIODE TVS BI-DIR.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins13591@discrete.\diode tvs bi-dir.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins13591@discrete.\diode tvs bi-dir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_FUSE1206_500MA':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS48360@DISCRETE.FUSE.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins48360@discrete.\fuse.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins48360@discrete.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON4_HD254P-4X1_MCU_DEBUG':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS9982@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins9982@connector.\con4.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins9982@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON3_HD254P-3X1_MCU_UART':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS49705@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins49705@connector.\con3.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins49705@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 5X2_HD254P-5X2_HEADER 5X':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS35598@CONNECTOR.HEADER 5X2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins35598@connector.\header 5x2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins35598@connector.\header 5x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER 10X2_SH254P-10X2_SWD':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS32302@CONNECTOR.HEADER 10X2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins32302@connector.\header 10x2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins32302@connector.\header 10x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CON2_HD254P-2X1_4_2V/LI BATTERY':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS11631@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins11631@connector.\con2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins11631@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LCD1 'LCD_TFT24_320X240_TFT_2R8_1X37_':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS369@SSICSS_SCHLIB.LCD_TFT24_320X240.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins369@ssicss_schlib.\lcd_tft24_320x240.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins369@ssicss_schlib.\lcd_tft24_320x240.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LS1 'SPEAKER_SPEAKER12X9R5_SPEAKER':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS464@DISCRETE.SPEAKER.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins464@discrete.\speaker.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins464@discrete.\speaker.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '1R1001_SOT23_S8050':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS29034@TRANSISTOR.1R1001.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins29034@transistor.\1r1001.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins29034@transistor.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 '1R1001_SOT23_S8050':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS67780@TRANSISTOR.1R1001.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins67780@transistor.\1r1001.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins67780@transistor.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 '1R1001_SOT23_S8050':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS61154@TRANSISTOR.1R1001.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins61154@transistor.\1r1001.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins61154@transistor.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'MOSFET P GSD_SOT23_SI2301':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS13139@TRANSISTOR.MOSFET P GSD.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins13139@transistor.\mosfet p gsd.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins13139@transistor.\mosfet p gsd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R2_RESC0603_1K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS29548@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins29548@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins29548@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R2_RESC0603_0R/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS45876@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins45876@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins45876@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R2_RESC0603_0R/RESC0603/NC':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS45892@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins45892@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins45892@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R2_RESC0603_10K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS45138@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins45138@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins45138@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R2_RESC0603_10K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS45112@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins45112@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins45112@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R2_RESC0603_0R/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS34206@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins34206@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins34206@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R2_RESC0603_680R/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS62148@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins62148@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins62148@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R2_RESC0603_1K5/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS10864@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins10864@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins10864@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R2_RESC0603_10K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS62071@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins62071@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins62071@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R2_RESC0603_33R/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS10821@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins10821@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins10821@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R2_RESC0603_33R/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS10781@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins10781@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins10781@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R2_RESC0603_10K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS68097@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins68097@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins68097@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R2_RESC0603_68K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS61228@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins61228@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins61228@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R2_RESC0603_50K/RESC0603/1%':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS48876@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins48876@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins48876@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R2_RESC0603_50K/RESC0603/1%':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS48985@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins48985@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins48985@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R2_RESC0603_100R/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS13506@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins13506@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins13506@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R2_RESC0603_1_66K/RESC0603/1%':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS11480@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins11480@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins11480@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R2_RESC0603_51K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS13345@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins13345@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins13345@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R2_RESC0603_50K/RESC0603/1%':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS49011@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins49011@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins49011@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R2_RESC0603_1K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS67807@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins67807@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins67807@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R2_RESC0603_30R/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS7419@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins7419@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins7419@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R2_RESC0603_10K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS9613@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins9613@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins9613@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R2_RESC0603_10K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS30605@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins30605@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins30605@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R2_RESC0603_10K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS10155@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins10155@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins10155@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R2_RESC0603_510R/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS31808@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins31808@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins31808@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R2_RESC0603_10K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS6942@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins6942@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins6942@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON-SPST/SM_SW_SW RST':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS9106@DISCRETE.SW PUSHBUTTON-SPST/SM.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins9106@discrete.\sw pushbutton-spst/sm.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins9106@discrete.\sw pushbutton-spst/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW PUSHBUTTON-DPST_SW12X12X8R5_':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS518@DISCRETE.SW PUSHBUTTON-DPST.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins518@discrete.\sw pushbutton-dpst.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins518@discrete.\sw pushbutton-dpst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32F103R8T6/LQFP64_LQFP50P120':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS150@SSICSS_SCHLIB.STM32F103R8T6/LQFP64.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins150@ssicss_schlib.\stm32f103r8t6/lqfp64.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins150@ssicss_schlib.\stm32f103r8t6/lqfp64.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'XPT2046_TSSOP16_XPT2046':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS5660@SSICSS_SCHLIB.XPT2046.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins5660@ssicss_schlib.\xpt2046.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins5660@ssicss_schlib.\xpt2046.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'W25Q128FV_SOIC16_W25Q128FV':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS22626@SSICSS_SCHLIB.W25Q128FV.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins22626@ssicss_schlib.\w25q128fv.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins22626@ssicss_schlib.\w25q128fv.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'USB-CONNECTER_MINIUSB_USB-CONNE':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS578@SSICSS_SCHLIB.USB-CONNECTER.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins578@ssicss_schlib.\usb-connecter.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins578@ssicss_schlib.\usb-connecter.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'TP4054_SOT23-5_TP4054':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS59263@SSICSS_SCHLIB.TP4054.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins59263@ssicss_schlib.\tp4054.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins59263@ssicss_schlib.\tp4054.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'NUP2202W1_SOT363_NUP2202W1':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS43813@SSICSS_SCHLIB.NUP2202W1.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins43813@ssicss_schlib.\nup2202w1.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins43813@ssicss_schlib.\nup2202w1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'RT9013-SC82_SOT23-5_RT9013-33':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS63320@SSICSS_SCHLIB.RT9013-SC82.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins63320@ssicss_schlib.\rt9013-sc82.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins63320@ssicss_schlib.\rt9013-sc82.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'ZTA_XTAL-HC49S_8M':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS7394@DISCRETE.ZTA.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins7394@discrete.\zta.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins7394@discrete.\zta.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

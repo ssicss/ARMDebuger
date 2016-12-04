@@ -1,12 +1,10 @@
-(ExpressProject "DL-WKV0101"
+(ExpressProject ""
   (ProjectVersion "19981106")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
-      (File
-         "c:\users\vrcoo\documents\工作\allegrolib-master\schlib\ssicss_schlib.olb"
+      (File "d:\allegrolib\schlib\ssicss_schlib.olb"
         (Type "Schematic Library")))
-    (NoModify)
     (File ".\dl-wkv0101.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
@@ -17,7 +15,7 @@
     (DRC_View_Output "FALSE")
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
-    (DRC_Report_File "D:\脱机下载器\原理图\DL-WKV0101.DRC")
+    (DRC_Report_File "D:\ARMDEBUGER\原理图\DL-WKV0101.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -42,118 +40,129 @@
     (DRC_Type_Mismatch "TRUE")
     (DRC_Visible_Power_pins "FALSE")
     (DRC_Report_Unused_Part_Packages "TRUE")
-    (DRC_Check_Name_Prop_For_HierBlocks "TRUE"))
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (NoModify)
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\dl-wkv0101.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Configuration File"
+       "C:\Cadence\SPB_16.5\tools\capture\allegro.cfg")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
   (Folder "Outputs"
     (File ".\dl-wkv0101.drc"
-      (Type "Report")))
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
-  (GlobalState
-    (FileView
-      (Path "Design Resources")
-      (Path "Design Resources" "d:\脱机下载器\原理图\dl-wkv0101.dsn")
-      (Path "Design Resources" "d:\脱机下载器\原理图\dl-wkv0101.dsn"
-         "SCHEMATIC1")
-      (Path "Design Resources" "Library")
-      (Path "Outputs")
-      (Select "Design Resources" "d:\脱机下载器\原理图\dl-wkv0101.dsn"))
-    (HierarchyView)
-    (Doc
-      (Type "COrCapturePMDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 322"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1696 50 574")
-        (Scroll "0 0")
-        (Zoom "172")
-        (Occurrence "/"))
-      (Path "D:\脱机下载器\原理图\DL-WKV0101.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
   (PartMRUSelector
     (GND
       (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    ("HEADER 5X2"
-      (FullPartName "HEADER 5X2.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+    (LCD_TFT_2R4
+      (FullPartName "LCD_TFT_2R4.Normal")
+      (LibraryName "D:\ALLEGROLIB\SCHLIB\SSICSS_SCHLIB.OLB")
+      (DeviceIndex "0"))
+    ("RESISTOR SIP 9"
+      (FullPartName "RESISTOR SIP 9.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RT9013-SOT23-5
+      (FullPartName "RT9013-SOT23-5.Normal")
+      (LibraryName "D:\ALLEGROLIB\SCHLIB\SSICSS_SCHLIB.OLB")
       (DeviceIndex "0"))
     (R2
       (FullPartName "R2.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    ("HEADER 10X2"
-      (FullPartName "HEADER 10X2.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
-      (DeviceIndex "0"))
-    (DIODE
-      (FullPartName "DIODE.Normal")
       (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
     (1R1001
       (FullPartName "1R1001.Normal")
       (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
       (DeviceIndex "0"))
-    ("CAP NP"
-      (FullPartName "CAP NP.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+    (TP4054
+      (FullPartName "TP4054.Normal")
+      (LibraryName "D:\ALLEGROLIB\SCHLIB\SSICSS_SCHLIB.OLB")
       (DeviceIndex "0"))
-    (W25Q128FV
-      (FullPartName "W25Q128FV.Normal")
-      (LibraryName
-         "C:\USERS\VRCOO\DOCUMENTS\工作\ALLEGROLIB-MASTER\SCHLIB\SSICSS_SCHLIB.OLB")
-      (DeviceIndex "0"))
-    (HP5013
-      (FullPartName "HP5013.Normal")
-      (LibraryName
-         "C:\USERS\VRCOO\DOCUMENTS\工作\ALLEGROLIB-MASTER\SCHLIB\SSICSS_SCHLIB.OLB")
-      (DeviceIndex "0"))
-    (CYT6206
-      (FullPartName "CYT6206.Normal")
-      (LibraryName
-         "C:\USERS\VRCOO\DOCUMENTS\工作\ALLEGROLIB-MASTER\SCHLIB\SSICSS_SCHLIB.OLB")
-      (DeviceIndex "0"))
-    (VCC
-      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    ("DIODE TVS BI-DIR"
-      (FullPartName "DIODE TVS BI-DIR.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    ("MOSFET P GSD"
-      (FullPartName "MOSFET P GSD.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
-      (DeviceIndex "0"))
-    (LED
-      (FullPartName "LED.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0"))
     (CON2
       (FullPartName "CON2.Normal")
       (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0"))
-    (AP5054
-      (FullPartName "AP5054.Normal")
-      (LibraryName
-         "C:\USERS\VRCOO\DOCUMENTS\工作\ALLEGROLIB-MASTER\SCHLIB\SSICSS_SCHLIB.OLB")
-      (DeviceIndex "0"))
-    (CON4
-      (FullPartName "CON4.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
-      (DeviceIndex "0"))
-    ("SW PUSHBUTTON-SPST/SM"
-      (FullPartName "SW PUSHBUTTON-SPST/SM.Normal")
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
       (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
-    (ZTA
-      (FullPartName "ZTA.Normal")
+    (FUSE
+      (FullPartName "FUSE.Normal")
       (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
-    (XPT2046
-      (FullPartName "XPT2046.Normal")
-      (LibraryName
-         "C:\USERS\VRCOO\DOCUMENTS\工作\ALLEGROLIB-MASTER\SCHLIB\SSICSS_SCHLIB.OLB")
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (NUP2202W1
+      (FullPartName "NUP2202W1.Normal")
+      (LibraryName "D:\ALLEGROLIB\SCHLIB\SSICSS_SCHLIB.OLB")
       (DeviceIndex "0")))
-  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.5\tools\capture\library"))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.5\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\dl-wkv0101.dsn")
+      (Path "Design Resources" ".\dl-wkv0101.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\dl-wkv0101.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "d:\allegrolib\schlib\ssicss_schlib.olb")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 165"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 954 50 253")
+        (Scroll "860 0")
+        (Zoom "120")
+        (Occurrence "/"))
+      (Path "D:\ARMDEBUGER\原理图\DL-WKV0101.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (ISPCBBASICLICENSE "false"))

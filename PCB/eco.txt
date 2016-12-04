@@ -1,0 +1,221 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/ARMDebuger/PCB/dl-wkv0101.brd                                            |
+|                                                    Sun Dec 04 19:33:47 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 C22.2                          
+                                 C23.2                          
+                                 C24.2                          
+                                 LCD4.7                         
+                                 LCD4.8                         
+                                 LCD4.9                         
+                                 LCD4.11                        
+                                 LCD4.12                        
+                                 LCD4.13                        
+                                 LCD4.14                        
+                                 LCD4.31                        
+                                 LCD4.32                        
+                                 LCD4.34                        
+                                 LCD4.43                        
+                                 LCD4.48                        
+                                 LCD4.49                        
+                                 LCD4.50                        
+                                 Q6.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_BK_CTL   pins ADDED TO this existing net (pins not previously on any net)
+                                 R30.1                          
+                                 R31.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_CS       pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.38                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA0    pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.30                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA1    pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.29                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA2    pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.28                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA3    pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.27                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA4    pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.26                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA5    pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.25                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/ARMDebuger/PCB/dl-wkv0101.brd                                            |
+|                                                    Sun Dec 04 19:33:47 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  LCD_DATA6    pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.24                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA7    pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.23                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA8    pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.22                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA9    pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.21                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA10   pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.20                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA11   pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.19                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA12   pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.18                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA13   pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.17                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA14   pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.16                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DATA15   pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.15                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_RD       pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.35                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_RS       pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.37                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_RST      pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.10                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_WR       pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.36                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N89367       pins ADDED TO this new net
+                                 Q6.1                           
+                                 R30.2                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/ARMDebuger/PCB/dl-wkv0101.brd                                            |
+|                                                    Sun Dec 04 19:33:47 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N89455       pins ADDED TO this new net
+                                 LCD4.2                         
+                                 LCD4.3                         
+                                 LCD4.4                         
+                                 LCD4.5                         
+                                 Q6.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TOUCH_X+     pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.44                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TOUCH_X-     pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.46                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TOUCH_Y+     pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.45                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TOUCH_Y-     pins ADDED TO this existing net (pins not previously on any net)
+                                 LCD4.47                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_3V3_MAIN pins ADDED TO this existing net (pins not previously on any net)
+                                 C22.1                          
+                                 C23.1                          
+                                 C24.1                          
+                                 LCD4.1                         
+                                 LCD4.6                         
+                                 LCD4.40                        
+                                 LCD4.41                        
+                                 LCD4.42                        
+                                 R31.1                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/ARMDebuger/PCB/dl-wkv0101.brd                                            |
+|                                                    Sun Dec 04 19:33:47 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP NP_CAPC0805_10UF/CAPC0805
+ LCD_TFT_2R4_TFT_2R4_0R5X50_LCD_
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/ARMDebuger/PCB/dl-wkv0101.brd                                            |
+|                                                    Sun Dec 04 19:33:47 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C5                  CAP NP_CAPC0603_100NF/CAPC0603 48.5552 103.622
+ C6                  CAP NP_CAPC0603_1UF/CAPC0603 71.2032 13.8664
+ LCD1                LCD_TFT24_320X240_TFT_2R8_1X37_ 32.1064 91.2032
+ Q2                  1R1001_SOT23_S8050    70.7032 25.0098
+ R2                  R2_RESC0603_10K/RESC0603 117.106 89.3843
+ R3                  R2_RESC0603_1K/RESC0603 55.3648 103.622
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/ARMDebuger/PCB/dl-wkv0101.brd                                            |
+|                                                    Sun Dec 04 19:33:47 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C22                 CAP NP_CAPC0603_100NF/CAPC0603 
+ C23                 CAP NP_CAPC0603_100NF/CAPC0603 
+ C24                 CAP NP_CAPC0805_10UF/CAPC0805 
+ LCD4                LCD_TFT_2R4_TFT_2R4_0R5X50_LCD_ 
+ Q6                  1R1001_SOT23_S8050    
+ R30                 R2_RESC0603_1K/RESC0603 
+ R31                 R2_RESC0603_10K/RESC0603 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:/ARMDebuger/PCB/dl-wkv0101.brd                                            |
+|                                                    Sun Dec 04 19:33:47 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C22.2                          PRIM_FILE      .\pstchip.dat
+ C23.2                          PRIM_FILE      .\pstchip.dat
+ C24.2                          PRIM_FILE      .\pstchip.dat
+ LCD4.47                        PRIM_FILE      .\pstchip.dat
+ Q6.3                           PRIM_FILE      .\pstchip.dat
+ R30.2                          PRIM_FILE      .\pstchip.dat
+ R31.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  83                                             |
+|------------------------------------------------------------------------------|
