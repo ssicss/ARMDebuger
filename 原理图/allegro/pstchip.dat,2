@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.5.0 p001Dec-04-2016 at 17:48:10}
+{ Using PSTWRITER 16.5.0 p001Dec-04-2016 at 17:58:21}
 primitive 'CAP NP_CAPC0603_30PF/CAPC0603';
   pin
     '1':
@@ -1080,25 +1080,28 @@ primitive 'NUP2202W1_SOT363_NUP2202W1';
     VALUE='NUP2202W1';
   end_body;
 end_primitive;
-primitive 'RT9013-SC82_SOT23-5_RT9013-33';
+primitive 'RT9013-SOT23-5_SOT23-5_RT9013-S';
   pin
     'VIN':
-      PIN_NUMBER='(4)';
+      PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
     'EN':
-      PIN_NUMBER='(1)';
+      PIN_NUMBER='(3)';
       PINUSE='UNSPEC';
     'GND':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
     'VOUT':
-      PIN_NUMBER='(3)';
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'NC':
+      PIN_NUMBER='(4)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='RT9013-SC82';
+    PART_NAME='RT9013-SOT23-5';
     JEDEC_TYPE='sot23-5';
-    VALUE='RT9013-33';
+    VALUE='RT9013-SOT23-5';
   end_body;
 end_primitive;
 primitive 'ZTA_XTAL-HC49S_8M';

@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.5.0 p001Dec-04-2016 at 17:28:01}
+{ Using PSTWRITER 16.5.0 p001Dec-04-2016 at 17:48:10}
 primitive 'CAP NP_CAPC0603_30PF/CAPC0603';
   pin
     '1':
@@ -972,7 +972,7 @@ primitive 'XPT2046_TSSOP16_XPT2046';
     VALUE='XPT2046';
   end_body;
 end_primitive;
-primitive 'W25Q128FV_SOIC16_W25Q128FV';
+primitive 'W25Q128FV_VSOP8_W25Q128FV';
   pin
     'C\S\':
       PIN_NUMBER='(1)';
@@ -1001,7 +1001,7 @@ primitive 'W25Q128FV_SOIC16_W25Q128FV';
   end_pin;
   body
     PART_NAME='W25Q128FV';
-    JEDEC_TYPE='soic16';
+    JEDEC_TYPE='vsop8';
     VALUE='W25Q128FV';
   end_body;
 end_primitive;

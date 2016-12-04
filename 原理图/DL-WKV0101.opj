@@ -146,23 +146,12 @@
       (Path "Design Resources" ".\dl-wkv0101.dsn" "SCHEMATIC1")
       (Path "Design Resources" ".\dl-wkv0101.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "d:\allegrolib\schlib\ssicss_schlib.olb")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\dl-wkv0101.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 165"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 954 50 253")
-        (Scroll "860 0")
-        (Zoom "120")
-        (Occurrence "/"))
-      (Path "D:\ARMDEBUGER\‘≠¿ÌÕº\DL-WKV0101.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 165"))
+      (Tab 0)))
   (ISPCBBASICLICENSE "false"))

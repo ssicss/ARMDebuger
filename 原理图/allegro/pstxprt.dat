@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.5.0 p001Dec-04-2016 at 19:33:19 }
+{ Using PSTWRITER 16.5.0 p001Dec-05-2016 at 00:14:36 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='DL-WKV0101';
@@ -604,6 +604,16 @@ SECTION_NUMBER 1
  '@DL-WKV0101.SCHEMATIC1(SCH_1):INS89411@DISCRETE.R2.NORMAL(CHIPS)':
  C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins89411@discrete.\r2.normal\(chips)',
  P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins89411@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R2_RESC0603_10K/RESC0603':;
+
+SECTION_NUMBER 1
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS99294@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins99294@discrete.\r2.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins99294@discrete.\r2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
