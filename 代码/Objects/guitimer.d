@@ -1,5 +1,5 @@
 .\objects\guitimer.o: Ucgui\Core\GUITimer.c
-.\objects\guitimer.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\guitimer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\guitimer.o: Ucgui\Core\GUI_Protected.h
 .\objects\guitimer.o: Ucgui\Core\GUI.h
 .\objects\guitimer.o: Ucgui\Core\GUI_ConfDefaults.h

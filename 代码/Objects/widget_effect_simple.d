@@ -1,6 +1,6 @@
 .\objects\widget_effect_simple.o: Ucgui\Widget\WIDGET_Effect_Simple.c
-.\objects\widget_effect_simple.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\widget_effect_simple.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\widget_effect_simple.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\widget_effect_simple.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\widget_effect_simple.o: Ucgui\Widget\WIDGET.h
 .\objects\widget_effect_simple.o: .\Ucgui\WM\WM_Intern.h
 .\objects\widget_effect_simple.o: .\Ucgui\WM\WM.h

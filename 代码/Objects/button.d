@@ -1,6 +1,6 @@
 .\objects\button.o: Ucgui\Widget\BUTTON.c
-.\objects\button.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\button.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\button.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\button.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\button.o: Ucgui\Widget\BUTTON_Private.h
 .\objects\button.o: .\Ucgui\WM\WM.h
 .\objects\button.o: .\Ucgui\Core\GUI_ConfDefaults.h

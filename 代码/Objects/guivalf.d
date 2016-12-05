@@ -10,4 +10,4 @@
 .\objects\guivalf.o: Ucgui\Core\GUIDebug.h
 .\objects\guivalf.o: Ucgui\Core\GUI_X.h
 .\objects\guivalf.o: .\Ucgui\WM\WM_GUI.h
-.\objects\guivalf.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+.\objects\guivalf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

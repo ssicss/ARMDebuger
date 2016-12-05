@@ -1,5 +1,5 @@
 .\objects\editfloat.o: Ucgui\Widget\EDITFloat.c
-.\objects\editfloat.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+.\objects\editfloat.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 .\objects\editfloat.o: Ucgui\Widget\EDIT.h
 .\objects\editfloat.o: .\Ucgui\WM\WM.h
 .\objects\editfloat.o: .\Ucgui\Core\GUI_ConfDefaults.h

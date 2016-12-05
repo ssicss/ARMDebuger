@@ -1,5 +1,5 @@
 .\objects\lcd_setapi.o: Ucgui\Core\LCD_SetAPI.c
-.\objects\lcd_setapi.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\lcd_setapi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lcd_setapi.o: Ucgui\Core\GUI_Private.h
 .\objects\lcd_setapi.o: Ucgui\Core\GUI_Protected.h
 .\objects\lcd_setapi.o: Ucgui\Core\GUI.h

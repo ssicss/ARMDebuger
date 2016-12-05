@@ -1,5 +1,5 @@
 .\objects\listbox_setstring.o: Ucgui\Widget\LISTBOX_SetString.c
-.\objects\listbox_setstring.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\listbox_setstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\listbox_setstring.o: Ucgui\Widget\LISTBOX_Private.h
 .\objects\listbox_setstring.o: Ucgui\Widget\LISTBOX.h
 .\objects\listbox_setstring.o: .\Ucgui\WM\WM.h

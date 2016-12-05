@@ -7,10 +7,10 @@
 .\objects\jdphuff.o: .\Ucgui\Core\GUIType.h
 .\objects\jdphuff.o: .\Ucgui\Core\LCD.h
 .\objects\jdphuff.o: .\Ucgui\Core\GUIVersion.h
-.\objects\jdphuff.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
-.\objects\jdphuff.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\jdphuff.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
-.\objects\jdphuff.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\jdphuff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\jdphuff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\jdphuff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\jdphuff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\jdphuff.o: Ucgui\JPEG\jpeglib.h
 .\objects\jdphuff.o: Ucgui\JPEG\jmorecfg.h
 .\objects\jdphuff.o: Ucgui\JPEG\jpegint.h

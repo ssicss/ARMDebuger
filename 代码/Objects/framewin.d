@@ -1,6 +1,6 @@
 .\objects\framewin.o: Ucgui\Widget\FRAMEWIN.c
-.\objects\framewin.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\framewin.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\framewin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\framewin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\framewin.o: Ucgui\Widget\FRAMEWIN_Private.h
 .\objects\framewin.o: .\Ucgui\WM\WM.h
 .\objects\framewin.o: .\Ucgui\Core\GUI_ConfDefaults.h

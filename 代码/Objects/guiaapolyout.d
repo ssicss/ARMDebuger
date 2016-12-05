@@ -1,6 +1,6 @@
 .\objects\guiaapolyout.o: Ucgui\AntiAlias\GUIAAPolyOut.c
-.\objects\guiaapolyout.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
-.\objects\guiaapolyout.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\guiaapolyout.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\guiaapolyout.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\guiaapolyout.o: .\Ucgui\Core\GUI.h
 .\objects\guiaapolyout.o: .\Ucgui\Core\GUI_ConfDefaults.h
 .\objects\guiaapolyout.o: .\Ucgui\Config\GUIConf.h

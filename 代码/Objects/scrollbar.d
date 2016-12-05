@@ -1,6 +1,6 @@
 .\objects\scrollbar.o: Ucgui\Widget\SCROLLBAR.c
-.\objects\scrollbar.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\scrollbar.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\scrollbar.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\scrollbar.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\scrollbar.o: .\Ucgui\Core\GUI_Protected.h
 .\objects\scrollbar.o: .\Ucgui\Core\GUI.h
 .\objects\scrollbar.o: .\Ucgui\Core\GUI_ConfDefaults.h

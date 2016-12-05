@@ -10,4 +10,4 @@
 .\objects\gui_adddecmin.o: Ucgui\Core\GUIDebug.h
 .\objects\gui_adddecmin.o: Ucgui\Core\GUI_X.h
 .\objects\gui_adddecmin.o: .\Ucgui\WM\WM_GUI.h
-.\objects\gui_adddecmin.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\gui_adddecmin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

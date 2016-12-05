@@ -1,5 +1,5 @@
 .\objects\guiencjs.o: Ucgui\Core\GUIEncJS.c
-.\objects\guiencjs.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\guiencjs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\guiencjs.o: Ucgui\Core\GUI_Protected.h
 .\objects\guiencjs.o: Ucgui\Core\GUI.h
 .\objects\guiencjs.o: Ucgui\Core\GUI_ConfDefaults.h

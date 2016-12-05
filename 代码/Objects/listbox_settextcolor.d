@@ -1,5 +1,5 @@
 .\objects\listbox_settextcolor.o: Ucgui\Widget\LISTBOX_SetTextColor.c
-.\objects\listbox_settextcolor.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\listbox_settextcolor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\listbox_settextcolor.o: Ucgui\Widget\LISTBOX_Private.h
 .\objects\listbox_settextcolor.o: Ucgui\Widget\LISTBOX.h
 .\objects\listbox_settextcolor.o: .\Ucgui\WM\WM.h

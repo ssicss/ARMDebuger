@@ -1,6 +1,6 @@
 .\objects\guirealloc.o: Ucgui\Core\GUIRealloc.c
-.\objects\guirealloc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
-.\objects\guirealloc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\guirealloc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\guirealloc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\guirealloc.o: Ucgui\Core\GUI_Protected.h
 .\objects\guirealloc.o: Ucgui\Core\GUI.h
 .\objects\guirealloc.o: Ucgui\Core\GUI_ConfDefaults.h

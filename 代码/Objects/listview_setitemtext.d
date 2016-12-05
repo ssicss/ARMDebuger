@@ -1,5 +1,5 @@
 .\objects\listview_setitemtext.o: Ucgui\Widget\LISTVIEW_SetItemText.c
-.\objects\listview_setitemtext.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\listview_setitemtext.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\listview_setitemtext.o: Ucgui\Widget\LISTVIEW_Private.h
 .\objects\listview_setitemtext.o: .\Ucgui\WM\WM.h
 .\objects\listview_setitemtext.o: .\Ucgui\Core\GUI_ConfDefaults.h

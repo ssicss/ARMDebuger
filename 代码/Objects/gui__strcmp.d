@@ -1,5 +1,5 @@
 .\objects\gui__strcmp.o: Ucgui\Core\GUI__strcmp.c
-.\objects\gui__strcmp.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\gui__strcmp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\gui__strcmp.o: Ucgui\Core\GUI_Protected.h
 .\objects\gui__strcmp.o: Ucgui\Core\GUI.h
 .\objects\gui__strcmp.o: Ucgui\Core\GUI_ConfDefaults.h

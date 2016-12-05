@@ -1,5 +1,5 @@
 .\objects\wm__sendmessage.o: Ucgui\WM\WM__SendMessage.c
-.\objects\wm__sendmessage.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\wm__sendmessage.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\wm__sendmessage.o: Ucgui\WM\WM_Intern.h
 .\objects\wm__sendmessage.o: Ucgui\WM\WM.h
 .\objects\wm__sendmessage.o: .\Ucgui\Core\GUI_ConfDefaults.h

@@ -1,5 +1,5 @@
 .\objects\guidev_getysize.o: Ucgui\MemDev\GUIDEV_GetYSize.c
-.\objects\guidev_getysize.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\guidev_getysize.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\guidev_getysize.o: .\Ucgui\Core\GUI_Protected.h
 .\objects\guidev_getysize.o: .\Ucgui\Core\GUI.h
 .\objects\guidev_getysize.o: .\Ucgui\Core\GUI_ConfDefaults.h

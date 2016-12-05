@@ -15,7 +15,7 @@
     (DRC_View_Output "FALSE")
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
-    (DRC_Report_File "D:\ARMDEBUGER\原理图\DL-WKV0101.DRC")
+    (DRC_Report_File "E:\工作\第一板\原理图\aaa.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -72,7 +72,18 @@
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
-    (Netlist_TAB "0"))
+    (Netlist_TAB "0")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "E:\ARMDEBUGER\原理图\DL-WKV0101.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File "E:\ARMDEBUGER\原理图\DL-WKV0101.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
   (Folder "Outputs"
     (File ".\dl-wkv0101.drc"
       (Type "Report"))
@@ -84,7 +95,11 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File "e:\工作\第一板\原理图\aaa.drc"
+      (Type "Report"))
+    (File ".\dl-wkv0101.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (GND
@@ -146,23 +161,23 @@
       (Path "Design Resources" ".\dl-wkv0101.dsn" "SCHEMATIC1")
       (Path "Design Resources" ".\dl-wkv0101.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "d:\allegrolib\schlib\ssicss_schlib.olb")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\dl-wkv0101.dsn" "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 165"))
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 165"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 954 50 253")
-        (Scroll "860 0")
-        (Zoom "120")
+        (Placement "44 2 3 -1 -1 -8 -30 50 1661 50 574")
+        (Scroll "197 439")
+        (Zoom "86")
         (Occurrence "/"))
-      (Path "D:\ARMDEBUGER\原理图\DL-WKV0101.DSN")
+      (Path "E:\ARMDEBUGER\原理图\DL-WKV0101.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
-  (ISPCBBASICLICENSE "false"))
+  (ISPCBBASICLICENSE "false")
+  (MPSSessionName "Administrator"))

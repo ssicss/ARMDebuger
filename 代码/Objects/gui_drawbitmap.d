@@ -1,5 +1,5 @@
 .\objects\gui_drawbitmap.o: Ucgui\Core\GUI_DrawBitmap.c
-.\objects\gui_drawbitmap.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\gui_drawbitmap.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\gui_drawbitmap.o: Ucgui\Core\GUI_Private.h
 .\objects\gui_drawbitmap.o: Ucgui\Core\GUI_Protected.h
 .\objects\gui_drawbitmap.o: Ucgui\Core\GUI.h

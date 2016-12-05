@@ -1,5 +1,5 @@
 .\objects\dialog.o: Ucgui\Widget\DIALOG.c
-.\objects\dialog.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\dialog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\dialog.o: Ucgui\Widget\DIALOG.h
 .\objects\dialog.o: .\Ucgui\WM\WM.h
 .\objects\dialog.o: .\Ucgui\Core\GUI_ConfDefaults.h

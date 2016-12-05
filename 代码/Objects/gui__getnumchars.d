@@ -1,6 +1,6 @@
 .\objects\gui__getnumchars.o: Ucgui\Core\GUI__GetNumChars.c
-.\objects\gui__getnumchars.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
-.\objects\gui__getnumchars.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\gui__getnumchars.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\gui__getnumchars.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\gui__getnumchars.o: Ucgui\Core\GUI_Protected.h
 .\objects\gui__getnumchars.o: Ucgui\Core\GUI.h
 .\objects\gui__getnumchars.o: Ucgui\Core\GUI_ConfDefaults.h

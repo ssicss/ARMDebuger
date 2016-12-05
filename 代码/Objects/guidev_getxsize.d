@@ -1,5 +1,5 @@
 .\objects\guidev_getxsize.o: Ucgui\MemDev\GUIDEV_GetXSize.c
-.\objects\guidev_getxsize.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\guidev_getxsize.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\guidev_getxsize.o: .\Ucgui\Core\GUI_Protected.h
 .\objects\guidev_getxsize.o: .\Ucgui\Core\GUI.h
 .\objects\guidev_getxsize.o: .\Ucgui\Core\GUI_ConfDefaults.h

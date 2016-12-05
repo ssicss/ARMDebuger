@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \t (00:00:03) allegro 16.5 P003 (v16-5-13C) i86
 \t (00:00:03)     Journal start - Mon Dec 05 18:43:31 2016
 \t (00:00:03)         Host=444-PC User=444 Pid=332 CPUs=4
@@ -3710,3 +3711,18 @@
 \e (00:31:17) Do you want to save the changes you made to D:/ARMDebuger/PCB/dl-wkv0101.brd?
 \i (00:31:19) fillin yes 
 \t (00:31:19)     Journal end - Mon Dec 05 19:14:47 2016
+=======
+\t (00:00:01) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:01)     Journal start - Mon Dec 05 12:19:21 2016
+\t (00:00:01)         Host=2SHK8HJH4FDVHIN User=Administrator Pid=3980 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: E:/ARMDebuger/PCB/dl-wkv0101.brd
+\i (00:00:03) trapsize 8460
+\i (00:00:03) trapsize 8310
+\i (00:00:03) trapsize 8486
+\i (00:00:03) trapsize 8486
+\i (00:00:04) placementedit 
+\i (00:00:17) exit 
+\t (00:00:17)     Journal end - Mon Dec 05 12:19:37 2016
+>>>>>>> 74512e96fbbd84482afa8eddbf2c329f596a08a3

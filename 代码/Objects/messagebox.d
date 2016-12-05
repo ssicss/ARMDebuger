@@ -1,5 +1,5 @@
 .\objects\messagebox.o: Ucgui\Widget\MESSAGEBOX.c
-.\objects\messagebox.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\messagebox.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\messagebox.o: .\Ucgui\Core\GUI.h
 .\objects\messagebox.o: .\Ucgui\Core\GUI_ConfDefaults.h
 .\objects\messagebox.o: .\Ucgui\Config\GUIConf.h

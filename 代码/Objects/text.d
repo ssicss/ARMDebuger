@@ -1,6 +1,6 @@
 .\objects\text.o: Ucgui\Widget\TEXT.c
-.\objects\text.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\text.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\text.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\text.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\text.o: Ucgui\Widget\TEXT_Private.h
 .\objects\text.o: Ucgui\Widget\TEXT.h
 .\objects\text.o: .\Ucgui\WM\WM.h

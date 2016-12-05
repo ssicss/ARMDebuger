@@ -1,6 +1,6 @@
 .\objects\text_settextalign.o: Ucgui\Widget\TEXT_SetTextAlign.c
-.\objects\text_settextalign.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\text_settextalign.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\text_settextalign.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\text_settextalign.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\text_settextalign.o: Ucgui\Widget\TEXT.h
 .\objects\text_settextalign.o: .\Ucgui\WM\WM.h
 .\objects\text_settextalign.o: .\Ucgui\Core\GUI_ConfDefaults.h

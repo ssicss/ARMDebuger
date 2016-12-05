@@ -1,5 +1,5 @@
 .\objects\lcdrle4.o: Ucgui\Core\LCDRLE4.c
-.\objects\lcdrle4.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\lcdrle4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lcdrle4.o: Ucgui\Core\LCD.h
 .\objects\lcdrle4.o: Ucgui\Core\GUI_ConfDefaults.h
 .\objects\lcdrle4.o: .\Ucgui\Config\GUIConf.h

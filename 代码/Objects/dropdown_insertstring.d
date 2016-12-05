@@ -1,5 +1,5 @@
 .\objects\dropdown_insertstring.o: Ucgui\Widget\DROPDOWN_InsertString.c
-.\objects\dropdown_insertstring.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\dropdown_insertstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\dropdown_insertstring.o: Ucgui\Widget\DROPDOWN.h
 .\objects\dropdown_insertstring.o: .\Ucgui\WM\WM.h
 .\objects\dropdown_insertstring.o: .\Ucgui\Core\GUI_ConfDefaults.h

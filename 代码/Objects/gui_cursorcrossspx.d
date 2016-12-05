@@ -1,5 +1,5 @@
 .\objects\gui_cursorcrossspx.o: Ucgui\Core\GUI_CursorCrossSPx.c
-.\objects\gui_cursorcrossspx.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\objects\gui_cursorcrossspx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\gui_cursorcrossspx.o: Ucgui\Core\GUI_Protected.h
 .\objects\gui_cursorcrossspx.o: Ucgui\Core\GUI.h
 .\objects\gui_cursorcrossspx.o: Ucgui\Core\GUI_ConfDefaults.h

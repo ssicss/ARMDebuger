@@ -1,5 +1,5 @@
 .\objects\gui__memset16.o: Ucgui\Core\GUI__memset16.c
-.\objects\gui__memset16.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\gui__memset16.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\gui__memset16.o: Ucgui\Core\GUI_Protected.h
 .\objects\gui__memset16.o: Ucgui\Core\GUI.h
 .\objects\gui__memset16.o: Ucgui\Core\GUI_ConfDefaults.h

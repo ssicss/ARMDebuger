@@ -1,5 +1,5 @@
 .\objects\guicharp.o: Ucgui\Core\GUICharP.c
-.\objects\guicharp.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\guicharp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\guicharp.o: Ucgui\Core\GUI_Private.h
 .\objects\guicharp.o: Ucgui\Core\GUI_Protected.h
 .\objects\guicharp.o: Ucgui\Core\GUI.h

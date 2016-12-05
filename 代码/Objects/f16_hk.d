@@ -1,5 +1,5 @@
 .\objects\f16_hk.o: Ucgui\Font\F16_HK.c
-.\objects\f16_hk.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\f16_hk.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\f16_hk.o: .\Ucgui\Core\GUI_FontIntern.h
 .\objects\f16_hk.o: .\Ucgui\Core\GUI.h
 .\objects\f16_hk.o: .\Ucgui\Core\GUI_ConfDefaults.h

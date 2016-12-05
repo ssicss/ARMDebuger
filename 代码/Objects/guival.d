@@ -10,4 +10,4 @@
 .\objects\guival.o: Ucgui\Core\GUIDebug.h
 .\objects\guival.o: Ucgui\Core\GUI_X.h
 .\objects\guival.o: .\Ucgui\WM\WM_GUI.h
-.\objects\guival.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\guival.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
