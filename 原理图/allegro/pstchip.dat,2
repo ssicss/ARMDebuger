@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.5.0 p001Dec-04-2016 at 17:58:21}
+{ Using PSTWRITER 16.5.0 p001Dec-04-2016 at 19:33:19}
 primitive 'CAP NP_CAPC0603_30PF/CAPC0603';
   pin
     '1':
@@ -43,6 +43,21 @@ primitive 'CAP NP_CAPC0603_1UF/CAPC0603';
     PART_NAME='CAP NP';
     JEDEC_TYPE='capc0603';
     VALUE='1uF/CAPC0603';
+  end_body;
+end_primitive;
+primitive 'CAP NP_CAPC0805_10UF/CAPC0805';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='capc0805';
+    VALUE='10uF/CAPC0805';
   end_body;
 end_primitive;
 primitive 'DIODE_DO-214AC_SS34';
@@ -297,124 +312,163 @@ primitive 'CON2_HD254P-2X1_4_2V/LI BATTERY';
     VALUE='4_2V/LI BATTERY';
   end_body;
 end_primitive;
-primitive 'LCD_TFT24_320X240_TFT_2R8_1X37_';
+primitive 'LCD_TFT_2R4_TFT_2R4_0R5X50_LCD_';
   pin
-    'DB0':
+    'LEDA':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
-    'DB1':
+    'LEDK1':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
-    'DB2':
+    'LEDK2':
       PIN_NUMBER='(3)';
       PINUSE='UNSPEC';
-    'DB3':
+    'LEDK3':
       PIN_NUMBER='(4)';
       PINUSE='UNSPEC';
-    'GND1':
+    'LEDK4':
       PIN_NUMBER='(5)';
       PINUSE='UNSPEC';
-    'VCC1':
+    'IM0':
       PIN_NUMBER='(6)';
       PINUSE='UNSPEC';
-    'C\S\':
+    'IM1':
       PIN_NUMBER='(7)';
       PINUSE='UNSPEC';
-    'RS':
+    'IM2':
       PIN_NUMBER='(8)';
       PINUSE='UNSPEC';
-    'W\R\':
+    'IM3':
       PIN_NUMBER='(9)';
       PINUSE='UNSPEC';
-    'R\D\':
+    'RESET':
       PIN_NUMBER='(10)';
       PINUSE='UNSPEC';
-    'NC':
+    'VSYNC':
       PIN_NUMBER='(11)';
       PINUSE='UNSPEC';
-    'X+':
+    'HSYNC':
       PIN_NUMBER='(12)';
       PINUSE='UNSPEC';
-    'Y+':
+    'DOTCK':
       PIN_NUMBER='(13)';
       PINUSE='UNSPEC';
-    'X-':
+    'DE':
       PIN_NUMBER='(14)';
       PINUSE='UNSPEC';
-    'Y-':
+    'DB17':
       PIN_NUMBER='(15)';
       PINUSE='UNSPEC';
-    'LEDA':
+    'DB16':
       PIN_NUMBER='(16)';
       PINUSE='UNSPEC';
-    'LEDK1':
+    'DB15':
       PIN_NUMBER='(17)';
       PINUSE='UNSPEC';
-    'LEDK2':
+    'DB14':
       PIN_NUMBER='(18)';
       PINUSE='UNSPEC';
-    'LEDK3':
+    'DB13':
       PIN_NUMBER='(19)';
       PINUSE='UNSPEC';
-    'LEDK4':
+    'DB12':
       PIN_NUMBER='(20)';
       PINUSE='UNSPEC';
-    'LCM-ID':
+    'DB11':
       PIN_NUMBER='(21)';
       PINUSE='UNSPEC';
-    'DB4':
+    'DB10':
       PIN_NUMBER='(22)';
       PINUSE='UNSPEC';
-    'DB10':
+    'DB9':
       PIN_NUMBER='(23)';
       PINUSE='UNSPEC';
-    'DB11':
+    'DB8':
       PIN_NUMBER='(24)';
       PINUSE='UNSPEC';
-    'DB12':
+    'DB7':
       PIN_NUMBER='(25)';
       PINUSE='UNSPEC';
-    'DB13':
+    'DB6':
       PIN_NUMBER='(26)';
       PINUSE='UNSPEC';
-    'DB14':
+    'DB5':
       PIN_NUMBER='(27)';
       PINUSE='UNSPEC';
-    'DB15':
+    'DB4':
       PIN_NUMBER='(28)';
       PINUSE='UNSPEC';
-    'DB16':
+    'DB3':
       PIN_NUMBER='(29)';
       PINUSE='UNSPEC';
-    'DB17':
+    'DB2':
       PIN_NUMBER='(30)';
       PINUSE='UNSPEC';
-    'R\E\S\E\T\':
+    'DB1':
       PIN_NUMBER='(31)';
       PINUSE='UNSPEC';
-    'VCI':
+    'DB0':
       PIN_NUMBER='(32)';
       PINUSE='UNSPEC';
-    'VCC2':
+    'SDO':
       PIN_NUMBER='(33)';
       PINUSE='UNSPEC';
-    'GND2':
+    'SDI':
       PIN_NUMBER='(34)';
       PINUSE='UNSPEC';
-    'DB5':
+    'RD':
       PIN_NUMBER='(35)';
       PINUSE='UNSPEC';
-    'DB6':
+    'WRX/D/CX':
       PIN_NUMBER='(36)';
       PINUSE='UNSPEC';
-    'DB7':
+    'D/CX/SCL':
       PIN_NUMBER='(37)';
+      PINUSE='UNSPEC';
+    'CSX':
+      PIN_NUMBER='(38)';
+      PINUSE='UNSPEC';
+    'TE':
+      PIN_NUMBER='(39)';
+      PINUSE='UNSPEC';
+    'VDDI0':
+      PIN_NUMBER='(40)';
+      PINUSE='UNSPEC';
+    'VDDI1':
+      PIN_NUMBER='(41)';
+      PINUSE='UNSPEC';
+    'VCI':
+      PIN_NUMBER='(42)';
+      PINUSE='UNSPEC';
+    'GND0':
+      PIN_NUMBER='(43)';
+      PINUSE='UNSPEC';
+    'X+':
+      PIN_NUMBER='(44)';
+      PINUSE='UNSPEC';
+    'Y+':
+      PIN_NUMBER='(45)';
+      PINUSE='UNSPEC';
+    'X-':
+      PIN_NUMBER='(46)';
+      PINUSE='UNSPEC';
+    'Y-':
+      PIN_NUMBER='(47)';
+      PINUSE='UNSPEC';
+    'GND1':
+      PIN_NUMBER='(48)';
+      PINUSE='UNSPEC';
+    'GND2':
+      PIN_NUMBER='(49)';
+      PINUSE='UNSPEC';
+    'GND3':
+      PIN_NUMBER='(50)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='LCD_TFT24_320X240';
-    JEDEC_TYPE='tft_2r8_1x37';
-    VALUE='LCD_TFT24_320X240';
+    PART_NAME='LCD_TFT_2R4';
+    JEDEC_TYPE='tft_2r4_0r5x50';
+    VALUE='LCD_TFT_2R4';
   end_body;
 end_primitive;
 primitive 'SPEAKER_SPEAKER12X9R5_SPEAKER';

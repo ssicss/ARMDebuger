@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.5.0 p001Dec-05-2016 at 00:14:36}
+{ Using PSTWRITER 16.5.0 p001Dec-05-2016 at 21:50:15}
 primitive 'CAP NP_CAPC0603_30PF/CAPC0603';
   pin
     '1':
@@ -189,7 +189,7 @@ primitive 'CON3_HD254P-3X1_MCU_UART';
     VALUE='MCU_UART';
   end_body;
 end_primitive;
-primitive 'HEADER 5X2_HD254P-5X2_HEADER 5X';
+primitive 'HEADER 5X2_HD254P-5X2-90_HEADER';
   pin
     '2':
       PIN_NUMBER='(2)';
@@ -224,11 +224,11 @@ primitive 'HEADER 5X2_HD254P-5X2_HEADER 5X';
   end_pin;
   body
     PART_NAME='HEADER 5X2';
-    JEDEC_TYPE='hd254p-5x2';
+    JEDEC_TYPE='hd254p-5x2-90';
     VALUE='HEADER 5X2';
   end_body;
 end_primitive;
-primitive 'HEADER 10X2_SH254P-10X2_SWD';
+primitive 'HEADER 10X2_SH254P-10X2-90_SWD';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -293,7 +293,7 @@ primitive 'HEADER 10X2_SH254P-10X2_SWD';
   end_pin;
   body
     PART_NAME='HEADER 10X2';
-    JEDEC_TYPE='sh254p-10x2';
+    JEDEC_TYPE='sh254p-10x2-90';
     VALUE='SWD';
   end_body;
 end_primitive;

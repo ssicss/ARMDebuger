@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : dl-wkv0101.brd                                )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Mon Dec 05 18:59:47 2016                      )
+(    Date/Time        : Mon Dec 05 21:50:30 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -21,12 +21,12 @@ BOARD_DIRECTORY '';
 OLD_BOARD_NAME 'D:/ARMDebuger/PCB/dl-wkv0101.brd';
 NEW_BOARD_NAME 'D:/ARMDebuger/PCB/dl-wkv0101.brd';
 
-CmdLine: netrev -$ -i D:/ARMDebuger/原理图/allegro -y 1 D:/ARMDebuger/PCB/#Taaaaaa00332.tmp
+CmdLine: netrev -$ -i D:/ARMDebuger/原理图/allegro -y 1 D:/ARMDebuger/PCB/#Taaaaaa01644.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read D:/ARMDebuger/原理图/allegro/pstchip.dat 
-   Finished reading D:/ARMDebuger/原理图/allegro/pstchip.dat (00:00:00.04)
+   Finished reading D:/ARMDebuger/原理图/allegro/pstchip.dat (00:00:00.03)
 Starting to read D:/ARMDebuger/原理图/allegro/pstxprt.dat 
    Finished reading D:/ARMDebuger/原理图/allegro/pstxprt.dat (00:00:00.00)
 Starting to read D:/ARMDebuger/原理图/allegro/pstxnet.dat 
@@ -47,7 +47,7 @@ PADPATH =  D:\ALLEGROLIB\PADLIB\
 ------ Summary Statistics ------
 
 
-netrev run on Dec 5 18:59:47 2016
+netrev run on Dec 5 21:50:30 2016
    DESIGN NAME : 'DL-WKV0101'
    PACKAGING ON Apr 21 2011 10:02:30
 
@@ -73,5 +73,5 @@ netrev run on Dec 5 18:59:47 2016
  No warning detected
 
 cpu time      0:00:26
-elapsed time  0:00:01
+elapsed time  0:00:00
 

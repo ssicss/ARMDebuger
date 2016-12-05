@@ -83,7 +83,8 @@
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
     (BOM_One_Part_Per_Line "FALSE")
     (Open_BOM_in_Excel "TRUE")
-    (BOM_View_Output "FALSE"))
+    (BOM_View_Output "FALSE")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs"
     (File ".\dl-wkv0101.drc"
       (Type "Report"))
@@ -167,17 +168,17 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 165"))
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 165"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 50 1661 50 574")
-        (Scroll "197 439")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1696 50 574")
+        (Scroll "162 528")
         (Zoom "86")
         (Occurrence "/"))
-      (Path "E:\ARMDEBUGER\原理图\DL-WKV0101.DSN")
+      (Path "D:\ARMDEBUGER\原理图\DL-WKV0101.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
   (ISPCBBASICLICENSE "false")
-  (MPSSessionName "Administrator"))
+  (MPSSessionName "444"))

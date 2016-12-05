@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.5.0 p001Dec-04-2016 at 17:48:10 }
+{ Using PSTWRITER 16.5.0 p001Dec-04-2016 at 17:58:21 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='DL-WKV0101';
@@ -738,12 +738,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U7 'RT9013-SC82_SOT23-5_RT9013-33':;
+ U7 'RT9013-SOT23-5_SOT23-5_RT9013-S':;
 
 SECTION_NUMBER 1
- '@DL-WKV0101.SCHEMATIC1(SCH_1):INS63320@SSICSS_SCHLIB.RT9013-SC82.NORMAL(CHIPS)':
- C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins63320@ssicss_schlib.\rt9013-sc82.normal\(chips)',
- P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins63320@ssicss_schlib.\rt9013-sc82.normal\(chips)',
+ '@DL-WKV0101.SCHEMATIC1(SCH_1):INS71022@SSICSS_SCHLIB.RT9013-SOT23-5.NORMAL(CHIPS)':
+ C_PATH='@\dl-wkv0101\.schematic1(sch_1):ins71022@ssicss_schlib.\rt9013-sot23-5.normal\(chips)',
+ P_PATH='@\dl-wkv0101\.schematic1(sch_1):page1_ins71022@ssicss_schlib.\rt9013-sot23-5.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
