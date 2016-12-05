@@ -303,18 +303,73 @@ ERROR: 3D data (DXF code 30, value = 9.6000) detected on CIRCLE at line 10274
 ERROR: 3D data (DXF code 30, value = 18.6000) detected on CIRCLE at line 10300
 done.
 NOTE: Ignoring unsupported element POINT on line 4144.
+WARNING: Ignoring zero length segment at (90.0000, 51.5000)
+WARNING: Ignoring zero length segment at (90.0000, 18.5000)
 NOTE: Ignoring unsupported element SPLINE on line 4406.
 NOTE: Ignoring unsupported element SPLINE on line 4494.
 NOTE: Ignoring unsupported element SPLINE on line 4552.
+WARNING: Ignoring zero length segment at (80.0300, 15.6400)
+WARNING: Ignoring zero length segment at (25.9700, 15.6400)
+WARNING: Ignoring zero length segment at (25.9700, 54.3600)
+WARNING: Ignoring zero length segment at (80.0300, 54.3600)
+WARNING: Ignoring zero length segment at (82.0300, 13.6400)
 NOTE: Ignoring unsupported element SPLINE on line 5090.
 NOTE: Ignoring unsupported element SPLINE on line 5230.
+WARNING: Ignoring zero length segment at (22.7700, 56.3600)
+WARNING: Ignoring zero length segment at (22.7700, 13.6400)
+WARNING: Ignoring zero length segment at (82.0300, 56.3600)
 NOTE: Ignoring unsupported element SPLINE on line 5460.
+WARNING: Ignoring zero length segment at (0.0000, 13.5000)
 NOTE: Ignoring unsupported element SPLINE on line 5990.
 NOTE: Ignoring unsupported element SPLINE on line 6048.
+WARNING: Ignoring zero length segment at (0.0000, 30.0000)
+WARNING: Ignoring zero length segment at (9.0000, 30.0000)
+WARNING: Ignoring zero length segment at (1.5000, 45.0000)
+WARNING: Ignoring zero length segment at (1.5000, 52.5000)
+WARNING: Ignoring zero length segment at (1.5000, 45.5000)
+WARNING: Ignoring zero length segment at (1.5000, 52.0000)
+WARNING: Ignoring zero length segment at (10.5000, 45.5000)
+WARNING: Ignoring zero length segment at (10.5000, 52.0000)
+WARNING: Ignoring zero length segment at (10.5000, 52.5000)
+WARNING: Ignoring zero length segment at (10.5000, 45.0000)
+WARNING: Ignoring zero length segment at (21.4850, 41.0000)
+WARNING: Ignoring zero length segment at (9.4850, 41.0000)
+WARNING: Ignoring zero length segment at (9.4850, 29.0000)
+WARNING: Ignoring zero length segment at (21.4850, 29.0000)
 NOTE: Ignoring unsupported element SPLINE on line 7186.
 NOTE: Ignoring unsupported element SPLINE on line 7274.
 NOTE: Ignoring unsupported element SPLINE on line 7332.
 NOTE: Ignoring unsupported element SPLINE on line 7422.
+WARNING: Ignoring zero length segment at (80.5000, 4.5000)
+WARNING: Ignoring zero length segment at (87.5000, 11.5000)
+WARNING: Ignoring zero length segment at (82.5000, 9.5000)
+WARNING: Ignoring zero length segment at (78.5000, 2.5000)
+WARNING: Ignoring zero length segment at (80.5000, 7.5000)
+WARNING: Ignoring zero length segment at (85.5000, 9.5000)
+WARNING: Ignoring zero length segment at (9.5000, 4.5000)
+WARNING: Ignoring zero length segment at (2.5000, 11.5000)
+WARNING: Ignoring zero length segment at (7.5000, 9.5000)
+WARNING: Ignoring zero length segment at (11.5000, 2.5000)
+WARNING: Ignoring zero length segment at (9.5000, 7.5000)
+WARNING: Ignoring zero length segment at (4.5000, 9.5000)
+WARNING: Ignoring zero length segment at (9.5000, 65.5000)
+WARNING: Ignoring zero length segment at (82.5000, 60.5000)
+WARNING: Ignoring zero length segment at (87.5000, 58.5000)
+WARNING: Ignoring zero length segment at (9.5000, 62.5000)
+WARNING: Ignoring zero length segment at (85.5000, 60.5000)
+WARNING: Ignoring zero length segment at (80.5000, 65.5000)
+WARNING: Ignoring zero length segment at (2.5000, 58.5000)
+WARNING: Ignoring zero length segment at (80.5000, 62.5000)
+WARNING: Ignoring zero length segment at (78.5000, 67.5000)
+WARNING: Ignoring zero length segment at (11.5000, 67.5000)
+WARNING: Ignoring zero length segment at (7.5000, 60.5000)
+WARNING: Ignoring zero length segment at (4.5000, 60.5000)
+
+ERROR: ERROR(SPMHA1-66): Arc segment is outside of the extents.
+ERROR: Failed to add CIRCLE on line number 10252
+
+ERROR: ERROR(SPMHA1-66): Arc segment is outside of the extents.
+ERROR: Failed to add CIRCLE on line number 10278
 Layer conversion file: C:/Users/444/Desktop/waike1_l.cnv
 DXF file: C:/Users/444/Desktop/waike1.dxf
 BRD file: #Taaaaaa03976.tmp

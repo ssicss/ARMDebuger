@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : dl-wkv0101.brd                                )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Sun Dec 04 19:33:47 2016                      )
+(    Date/Time        : Mon Dec 05 18:59:47 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -21,7 +21,7 @@ BOARD_DIRECTORY '';
 OLD_BOARD_NAME 'D:/ARMDebuger/PCB/dl-wkv0101.brd';
 NEW_BOARD_NAME 'D:/ARMDebuger/PCB/dl-wkv0101.brd';
 
-CmdLine: netrev -$ -i D:/ARMDebuger/原理图/allegro -y 1 D:/ARMDebuger/PCB/#Taaaaaa04628.tmp
+CmdLine: netrev -$ -i D:/ARMDebuger/原理图/allegro -y 1 D:/ARMDebuger/PCB/#Taaaaaa00332.tmp
 
 ------ Preparing to read pst files ------
 
@@ -47,7 +47,7 @@ PADPATH =  D:\ALLEGROLIB\PADLIB\
 ------ Summary Statistics ------
 
 
-netrev run on Dec 4 19:33:47 2016
+netrev run on Dec 5 18:59:47 2016
    DESIGN NAME : 'DL-WKV0101'
    PACKAGING ON Apr 21 2011 10:02:30
 
@@ -72,6 +72,6 @@ netrev run on Dec 4 19:33:47 2016
  No oversight detected
  No warning detected
 
-cpu time      0:00:32
+cpu time      0:00:26
 elapsed time  0:00:01
 
