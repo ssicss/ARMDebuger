@@ -1,0 +1,59 @@
+Mon Dec 05 19:32:26 2016				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Mon Dec 05 19:32:26 2016
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : dl-wkv0101.brd                                )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Mon Dec 05 19:32:26 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Dec 05 19:32:26 2016				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design = 'D:/ARMDebuger/PCB/dl-wkv0101.brd'
+Output design = ''
+Update mechanical symbols = 'NO'
+Update format symbols = 'NO'
+Update package symbols = 'NO'
+Update shape/flash symbols = 'NO'
+Update symbol padstacks = 'NO'
+Reset symbol text and size locations = 'NO'
+Reset Pin Escapes (fanouts) = 'NO'
+Ripup Etch = 'NO'
+Reset custom drill data = 'NO'
+Symbol list file = 'C:/Users/444/AppData/Local/Temp/#Taaaaab01644.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  D:\AllegroLib\PSMLib\ 
+
+PADPATH =  D:\ALLEGROLIB\PADLIB\ 
+
+
+------ Symbol Refresh Messages ------
+
+'TFT_2R4_0R5X50'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Completed refreshing all symbols successfully.
