@@ -1,5 +1,5 @@
 .\objects\listbox_itemspacing.o: Ucgui\Widget\LISTBOX_ItemSpacing.c
-.\objects\listbox_itemspacing.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\listbox_itemspacing.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\listbox_itemspacing.o: Ucgui\Widget\LISTBOX_Private.h
 .\objects\listbox_itemspacing.o: Ucgui\Widget\LISTBOX.h
 .\objects\listbox_itemspacing.o: .\Ucgui\WM\WM.h

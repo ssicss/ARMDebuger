@@ -10,4 +10,4 @@
 .\objects\gui_getfontinfo.o: Ucgui\Core\GUIDebug.h
 .\objects\gui_getfontinfo.o: Ucgui\Core\GUI_X.h
 .\objects\gui_getfontinfo.o: .\Ucgui\WM\WM_GUI.h
-.\objects\gui_getfontinfo.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\gui_getfontinfo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

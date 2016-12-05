@@ -1,5 +1,5 @@
 .\objects\gui__calctextrect.o: Ucgui\Core\GUI__CalcTextRect.c
-.\objects\gui__calctextrect.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\objects\gui__calctextrect.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\gui__calctextrect.o: Ucgui\Core\GUI_Protected.h
 .\objects\gui__calctextrect.o: Ucgui\Core\GUI.h
 .\objects\gui__calctextrect.o: Ucgui\Core\GUI_ConfDefaults.h

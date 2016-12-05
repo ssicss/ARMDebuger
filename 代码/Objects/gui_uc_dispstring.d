@@ -1,5 +1,5 @@
 .\objects\gui_uc_dispstring.o: Ucgui\Core\GUI_UC_DispString.c
-.\objects\gui_uc_dispstring.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\gui_uc_dispstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\gui_uc_dispstring.o: Ucgui\Core\GUI_Protected.h
 .\objects\gui_uc_dispstring.o: Ucgui\Core\GUI.h
 .\objects\gui_uc_dispstring.o: Ucgui\Core\GUI_ConfDefaults.h

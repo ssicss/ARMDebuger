@@ -1,5 +1,5 @@
 .\objects\guitime.o: Ucgui\Core\GUITime.c
-.\objects\guitime.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\guitime.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\guitime.o: Ucgui\Core\GUI_Protected.h
 .\objects\guitime.o: Ucgui\Core\GUI.h
 .\objects\guitime.o: Ucgui\Core\GUI_ConfDefaults.h

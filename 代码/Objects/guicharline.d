@@ -1,6 +1,6 @@
 .\objects\guicharline.o: Ucgui\Core\GUICharLine.c
-.\objects\guicharline.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
-.\objects\guicharline.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\guicharline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\guicharline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\guicharline.o: Ucgui\Core\GUI_Protected.h
 .\objects\guicharline.o: Ucgui\Core\GUI.h
 .\objects\guicharline.o: Ucgui\Core\GUI_ConfDefaults.h

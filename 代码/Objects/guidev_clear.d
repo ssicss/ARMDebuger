@@ -10,4 +10,4 @@
 .\objects\guidev_clear.o: .\Ucgui\Core\GUIDebug.h
 .\objects\guidev_clear.o: .\Ucgui\Core\GUI_X.h
 .\objects\guidev_clear.o: .\Ucgui\WM\WM_GUI.h
-.\objects\guidev_clear.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\guidev_clear.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

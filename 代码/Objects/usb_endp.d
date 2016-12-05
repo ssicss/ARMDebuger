@@ -4,7 +4,7 @@
 .\objects\usb_endp.o: .\USBInterface\inc\usb_conf.h
 .\objects\usb_endp.o: .\Cmsic\stm32f10x.h
 .\objects\usb_endp.o: .\Cmsic\core_cm3.h
-.\objects\usb_endp.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\usb_endp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\usb_endp.o: .\Cmsic\system_stm32f10x.h
 .\objects\usb_endp.o: .\User\stm32f10x_conf.h
 .\objects\usb_endp.o: .\STLib\inc\stm32f10x_adc.h

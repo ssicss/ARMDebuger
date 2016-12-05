@@ -1,6 +1,6 @@
 .\objects\window.o: Ucgui\Widget\WINDOW.c
-.\objects\window.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\window.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\window.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\window.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\window.o: Ucgui\Widget\DIALOG.h
 .\objects\window.o: .\Ucgui\WM\WM.h
 .\objects\window.o: .\Ucgui\Core\GUI_ConfDefaults.h

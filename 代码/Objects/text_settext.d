@@ -1,6 +1,6 @@
 .\objects\text_settext.o: Ucgui\Widget\TEXT_SetText.c
-.\objects\text_settext.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\text_settext.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\text_settext.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\text_settext.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\text_settext.o: Ucgui\Widget\TEXT.h
 .\objects\text_settext.o: .\Ucgui\WM\WM.h
 .\objects\text_settext.o: .\Ucgui\Core\GUI_ConfDefaults.h

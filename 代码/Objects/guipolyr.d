@@ -1,5 +1,5 @@
 .\objects\guipolyr.o: Ucgui\Core\GUIPolyR.c
-.\objects\guipolyr.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+.\objects\guipolyr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 .\objects\guipolyr.o: Ucgui\Core\GUI.h
 .\objects\guipolyr.o: Ucgui\Core\GUI_ConfDefaults.h
 .\objects\guipolyr.o: .\Ucgui\Config\GUIConf.h

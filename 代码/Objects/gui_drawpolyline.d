@@ -1,5 +1,5 @@
 .\objects\gui_drawpolyline.o: Ucgui\Core\GUI_DrawPolyline.c
-.\objects\gui_drawpolyline.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\gui_drawpolyline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\gui_drawpolyline.o: Ucgui\Core\GUI_Protected.h
 .\objects\gui_drawpolyline.o: Ucgui\Core\GUI.h
 .\objects\gui_drawpolyline.o: Ucgui\Core\GUI_ConfDefaults.h

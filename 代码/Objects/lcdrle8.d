@@ -1,5 +1,5 @@
 .\objects\lcdrle8.o: Ucgui\Core\LCDRLE8.c
-.\objects\lcdrle8.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\lcdrle8.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lcdrle8.o: Ucgui\Core\GUI_Private.h
 .\objects\lcdrle8.o: Ucgui\Core\GUI_Protected.h
 .\objects\lcdrle8.o: Ucgui\Core\GUI.h

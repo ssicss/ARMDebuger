@@ -1,5 +1,5 @@
 .\objects\wm_timerexternal.o: Ucgui\WM\WM_TimerExternal.c
-.\objects\wm_timerexternal.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\wm_timerexternal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\wm_timerexternal.o: Ucgui\WM\WM_Intern.h
 .\objects\wm_timerexternal.o: Ucgui\WM\WM.h
 .\objects\wm_timerexternal.o: .\Ucgui\Core\GUI_ConfDefaults.h

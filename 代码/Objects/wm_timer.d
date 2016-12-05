@@ -1,5 +1,5 @@
 .\objects\wm_timer.o: Ucgui\WM\WM_Timer.c
-.\objects\wm_timer.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\wm_timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\wm_timer.o: Ucgui\WM\WM_Intern.h
 .\objects\wm_timer.o: Ucgui\WM\WM.h
 .\objects\wm_timer.o: .\Ucgui\Core\GUI_ConfDefaults.h

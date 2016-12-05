@@ -7,10 +7,10 @@
 .\objects\jcomapi.o: .\Ucgui\Core\GUIType.h
 .\objects\jcomapi.o: .\Ucgui\Core\LCD.h
 .\objects\jcomapi.o: .\Ucgui\Core\GUIVersion.h
-.\objects\jcomapi.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
-.\objects\jcomapi.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\jcomapi.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
-.\objects\jcomapi.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\jcomapi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\jcomapi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\jcomapi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\jcomapi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\jcomapi.o: Ucgui\JPEG\jpeglib.h
 .\objects\jcomapi.o: Ucgui\JPEG\jmorecfg.h
 .\objects\jcomapi.o: Ucgui\JPEG\jpegint.h

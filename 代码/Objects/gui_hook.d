@@ -1,5 +1,5 @@
 .\objects\gui_hook.o: Ucgui\Widget\GUI_HOOK.c
-.\objects\gui_hook.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\gui_hook.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\gui_hook.o: Ucgui\Widget\GUI_HOOK.h
 .\objects\gui_hook.o: .\Ucgui\WM\WM_Intern.h
 .\objects\gui_hook.o: .\Ucgui\WM\WM.h

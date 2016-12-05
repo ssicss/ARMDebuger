@@ -7,10 +7,10 @@
 .\objects\jutils.o: .\Ucgui\Core\GUIType.h
 .\objects\jutils.o: .\Ucgui\Core\LCD.h
 .\objects\jutils.o: .\Ucgui\Core\GUIVersion.h
-.\objects\jutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
-.\objects\jutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\jutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
-.\objects\jutils.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\jutils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\jutils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\jutils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\jutils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\jutils.o: Ucgui\JPEG\jpeglib.h
 .\objects\jutils.o: Ucgui\JPEG\jmorecfg.h
 .\objects\jutils.o: Ucgui\JPEG\jpegint.h

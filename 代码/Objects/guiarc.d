@@ -1,6 +1,6 @@
 .\objects\guiarc.o: Ucgui\Core\GUIArc.c
-.\objects\guiarc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
-.\objects\guiarc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+.\objects\guiarc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\guiarc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 .\objects\guiarc.o: Ucgui\Core\GUI_Protected.h
 .\objects\guiarc.o: Ucgui\Core\GUI.h
 .\objects\guiarc.o: Ucgui\Core\GUI_ConfDefaults.h

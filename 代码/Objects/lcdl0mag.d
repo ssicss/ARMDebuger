@@ -1,5 +1,5 @@
 .\objects\lcdl0mag.o: Ucgui\Core\LCDL0Mag.c
-.\objects\lcdl0mag.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\lcdl0mag.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lcdl0mag.o: Ucgui\Core\GUI_Private.h
 .\objects\lcdl0mag.o: Ucgui\Core\GUI_Protected.h
 .\objects\lcdl0mag.o: Ucgui\Core\GUI.h

@@ -1,6 +1,6 @@
 .\objects\header.o: Ucgui\Widget\HEADER.c
-.\objects\header.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\header.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\header.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\header.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\header.o: Ucgui\Widget\HEADER_Private.h
 .\objects\header.o: Ucgui\Widget\WIDGET.h
 .\objects\header.o: .\Ucgui\WM\WM_Intern.h

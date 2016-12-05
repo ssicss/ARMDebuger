@@ -1,5 +1,5 @@
 .\objects\lcdinfo0.o: Ucgui\Core\LCDInfo0.c
-.\objects\lcdinfo0.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\lcdinfo0.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lcdinfo0.o: Ucgui\Core\LCD.h
 .\objects\lcdinfo0.o: Ucgui\Core\GUI_ConfDefaults.h
 .\objects\lcdinfo0.o: .\Ucgui\Config\GUIConf.h

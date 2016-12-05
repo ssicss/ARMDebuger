@@ -7,10 +7,10 @@
 .\objects\jdcoefct.o: .\Ucgui\Core\GUIType.h
 .\objects\jdcoefct.o: .\Ucgui\Core\LCD.h
 .\objects\jdcoefct.o: .\Ucgui\Core\GUIVersion.h
-.\objects\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
-.\objects\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
-.\objects\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\jdcoefct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\jdcoefct.o: Ucgui\JPEG\jpeglib.h
 .\objects\jdcoefct.o: Ucgui\JPEG\jmorecfg.h
 .\objects\jdcoefct.o: Ucgui\JPEG\jpegint.h

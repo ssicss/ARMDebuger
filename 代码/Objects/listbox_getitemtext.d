@@ -19,4 +19,4 @@
 .\objects\listbox_getitemtext.o: Ucgui\Widget\DIALOG_Intern.h
 .\objects\listbox_getitemtext.o: Ucgui\Widget\WIDGET.h
 .\objects\listbox_getitemtext.o: Ucgui\Widget\GUI_ARRAY.h
-.\objects\listbox_getitemtext.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\listbox_getitemtext.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

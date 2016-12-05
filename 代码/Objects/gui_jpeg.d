@@ -1,5 +1,5 @@
 .\objects\gui_jpeg.o: Ucgui\JPEG\GUI_JPEG.c
-.\objects\gui_jpeg.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\objects\gui_jpeg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\gui_jpeg.o: .\Ucgui\Core\GUI_Private.h
 .\objects\gui_jpeg.o: .\Ucgui\Core\GUI_Protected.h
 .\objects\gui_jpeg.o: .\Ucgui\Core\GUI.h

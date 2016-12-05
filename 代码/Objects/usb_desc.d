@@ -2,7 +2,7 @@
 .\objects\usb_desc.o: .\USBLib\inc\usb_lib.h
 .\objects\usb_desc.o: .\Cmsic\stm32f10x.h
 .\objects\usb_desc.o: .\Cmsic\core_cm3.h
-.\objects\usb_desc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\usb_desc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\usb_desc.o: .\Cmsic\system_stm32f10x.h
 .\objects\usb_desc.o: .\User\stm32f10x_conf.h
 .\objects\usb_desc.o: .\STLib\inc\stm32f10x_adc.h

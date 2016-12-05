@@ -1,5 +1,5 @@
 .\objects\lcd_getnumdisplays.o: Ucgui\Core\LCD_GetNumDisplays.c
-.\objects\lcd_getnumdisplays.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\objects\lcd_getnumdisplays.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lcd_getnumdisplays.o: Ucgui\Core\LCD.h
 .\objects\lcd_getnumdisplays.o: Ucgui\Core\GUI_ConfDefaults.h
 .\objects\lcd_getnumdisplays.o: .\Ucgui\Config\GUIConf.h

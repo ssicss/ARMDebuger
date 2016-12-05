@@ -1,6 +1,6 @@
 .\objects\checkbox.o: Ucgui\Widget\CHECKBOX.c
-.\objects\checkbox.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
-.\objects\checkbox.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\checkbox.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\checkbox.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\checkbox.o: .\Ucgui\Core\GUI_Protected.h
 .\objects\checkbox.o: .\Ucgui\Core\GUI.h
 .\objects\checkbox.o: .\Ucgui\Core\GUI_ConfDefaults.h

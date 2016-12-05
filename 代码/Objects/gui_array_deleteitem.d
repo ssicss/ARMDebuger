@@ -13,4 +13,4 @@
 .\objects\gui_array_deleteitem.o: .\Ucgui\Core\LCD_Protected.h
 .\objects\gui_array_deleteitem.o: .\Ucgui\Core\GUIDebug.h
 .\objects\gui_array_deleteitem.o: .\Ucgui\Core\GUI_X.h
-.\objects\gui_array_deleteitem.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\gui_array_deleteitem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

@@ -1,5 +1,5 @@
 .\objects\editbin.o: Ucgui\Widget\EDITBin.c
-.\objects\editbin.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\editbin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\editbin.o: Ucgui\Widget\EDIT.h
 .\objects\editbin.o: .\Ucgui\WM\WM.h
 .\objects\editbin.o: .\Ucgui\Core\GUI_ConfDefaults.h

@@ -4,7 +4,7 @@
 .\objects\usb_prop.o: .\USBInterface\inc\usb_conf.h
 .\objects\usb_prop.o: .\Cmsic\stm32f10x.h
 .\objects\usb_prop.o: .\Cmsic\core_cm3.h
-.\objects\usb_prop.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\usb_prop.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\usb_prop.o: .\Cmsic\system_stm32f10x.h
 .\objects\usb_prop.o: .\User\stm32f10x_conf.h
 .\objects\usb_prop.o: .\STLib\inc\stm32f10x_adc.h
